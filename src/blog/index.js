@@ -26,7 +26,6 @@ export default class BlogIndex extends React.Component {
 
         <div className='mw9 center flex flex-wrap'>
           {posts.map(({ node }) => (
-            // TODO add preview text and put them side by side flex
             <Card
               title={node.frontmatter.title}
               image={node.frontmatter.postImage.childImageSharp.fluid}

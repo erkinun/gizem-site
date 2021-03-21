@@ -1,9 +1,17 @@
 ---
 type: 'copy'
 name: 'about__bio'
-title: 'About Gizem Ünlü - r 2000 years old. Richard McClintock, a Latin professor at Hampde'
+title: 'Gizem Ünlü'
 ---
 
-TBD soon
+Merhaba ben Psikolog Gizem Ünlü. 2017 yılından beri İngiliz Psikoloji Derneği’ne (BPS) üyeyim ve bu derneğin profesyonel etik ve standartlar çerçevesinde bireysel psikolojik danışmanlık vermekteyim.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+2017 yılında Middlesex University of London’ın Psikoloji yüksek lisansını, daha sonra da 2019 yılında Queen Mary Üniversitesi’ne bağlı olan Barts and the London School of Medicine and Dentistry’de, Akıl Sağlığı: Psikoloji Terapileri Master programını başarıyla tamamladım. Tamamladığım bu yüksek lisans programlarının Yüksek Öğretim Kurumu’nda (YÖK) klinik psikoloji eğitimi olarak akreditasyonu bulunmaktadır.
+
+Eğitimimi tamamlarken aynı zamanda mesleki deneyimimi geliştirmek için Türkiye’deki klinik stajımı İnsula Psikoloji’de; İngiltere’deki klinik stajımı ise Londra’nın önemli yardım kuruluşlarından Richmond Fellowship’de şizofreni ve bipolar bozukluk başta olmak üzere psikiyatrik rahatsızlıkları olan bireylerle çalışarak tamamladım. Daha sonra İngiliz Psikoji Topluluğu’nun Bilişsel Davranışçı Terapi eğitimini başarıyla bitirerek sertifika aldım. Psikoloji alanında profesyonel gelişimin sürekliliğine önem verdiğim için 2021 yılında Psikolojik Terapiler Birliği’nin (APT) Diyalektik Davranış Terapisi eğitimini tamamladım.
+
+Şu an Shout UK adlı yardım kuruluşunda anksiyete, depresyon, kendine zarar verme ve intihar düşünceleri ile bize ulaşan bireylere gönüllü olarak destek vermekteyim. Shout UK’de danışman olarak çalışmaya başlamadan önce kendine zarar verme ve intihar düşüncesi olan risk grubundaki bireylere psikolojik destek, risk değerlendirmesi, problem çözme, zorluklarla başa çıkma stratejilerini içeren yaklaşık iki ay süren yoğun bir eğitimi tamamladım. Bu merkezde çalışmaya başladığımdan beri güncel süpervizyon almaktayım.
+
+Yakın zamanda İstanbul Ataşehir’deki DeDio Psikoloji ekibine psikolog olarak katıldım ve bu merkeze bağlı olarak danışanlarıma online psikolojik danışmanlık hizmeti vermekteyim.
+
+Bu Covid 19 salgını dönemi süresince Skype ve Zoom üzerinden psikolojik danışmanlık vermeye devam etmekteyim.
