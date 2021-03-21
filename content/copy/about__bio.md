@@ -1,11 +1,9 @@
 ---
-
-type: "copy"
-name: "about__bio"
-title: "Tyra is a fast, feminine, and chic Gatsby.js Starter. Kickstart your online presence, powered by React."
-
+type: 'copy'
+name: 'about__bio'
+title: 'About Gizem Ünlü - r 2000 years old. Richard McClintock, a Latin professor at Hampde'
 ---
 
-Built on a strong foundation of React and Gatsby, Tyra is a modern, sleek, and _fast_ template for a blog. Created with an emphasis on SEO and the goal of showcasing content, Tyra is the perfect starter for creating your new project.
+TBD soon
 
-Tyra is MIT Licensed, and so works well as a starting point, a springboard, or even a finished product.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.

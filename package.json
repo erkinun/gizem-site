@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-tyra",
-  "description": "Gatsby Tyra Starter",
+  "name": "gizem-unlu-homepage",
+  "description": "Gizem Unlu homepage",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
