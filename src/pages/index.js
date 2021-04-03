@@ -14,7 +14,6 @@ export default ({ data }) => {
   return (
     <Layout>
       <Seo title={'Home Page'} description={site.description} />
-      <Img fluid={data.banner.childImageSharp.fluid} />
       <Hero
         title={site.heroTitle}
         image={data.banner.childImageSharp.fluid}
@@ -92,7 +91,7 @@ export const query = graphql`
         heroDesc
       }
     }
-    banner: file(relativePath: { eq: "img/about__banner.jpg" }) {
+    banner: file(relativePath: { eq: "img/lake.jpg" }) {
       childImageSharp {
         fluid(maxHeight: 720, maxWidth: 1920) {
           ...GatsbyImageSharpFluid
