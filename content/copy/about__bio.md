@@ -12,6 +12,4 @@ Eğitimimi tamamlarken aynı zamanda mesleki deneyimimi geliştirmek için Türk
 
 Şu an Shout UK adlı yardım kuruluşunda anksiyete, depresyon, kendine zarar verme ve intihar düşünceleri ile bize ulaşan bireylere gönüllü olarak destek vermekteyim. Shout UK’de danışman olarak çalışmaya başlamadan önce kendine zarar verme ve intihar düşüncesi olan risk grubundaki bireylere psikolojik destek, risk değerlendirmesi, problem çözme, zorluklarla başa çıkma stratejilerini içeren yaklaşık iki ay süren yoğun bir eğitimi tamamladım. Bu merkezde çalışmaya başladığımdan beri güncel süpervizyon almaktayım.
 
-Yakın zamanda İstanbul Ataşehir’deki DeDio Psikoloji ekibine psikolog olarak katıldım ve bu merkeze bağlı olarak danışanlarıma online psikolojik danışmanlık hizmeti vermekteyim.
-
 Bu Covid 19 salgını dönemi süresince Skype ve Zoom üzerinden psikolojik danışmanlık vermeye devam etmekteyim.

@@ -6,8 +6,9 @@ module.exports = {
     ],
     title: 'GİZEM ÜNLÜ',
     titleLowerCase: 'Gizem Ünlü',
-    heroTitle: 'Merhaba ben psikolog Gizem Ünlü',
-    heroDesc: 'Burasi detaylandiralacak az sonra az sonra TBD TBD',
+    heroTitle: 'Merhaba, ben Psikolog Gizem Ünlü',
+    heroDesc:
+      'Londra’da bireysel psikolojik danışmanlık hizmeti sunuyorum. Kendinizi tanıyıp, anlamak ve hayatınızı daha anlamlı yaşamak istiyorsanız benimle iletişime geçebilirsiniz.',
     description: 'Homepage and blog of psychologist Gizem Ünlü',
     siteUrl: 'https://gizemunlu.com',
     homepageHeader: "Welcome to Gizem Ünlü's blog",
