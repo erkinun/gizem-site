@@ -59,24 +59,19 @@ export default () => (
             </div>
           </div>
           <div className='flex flex-column'>
-            <span className='near-white sans-serif f5 tracked mb3 db'>
-              WRITING BY {data.site.siteMetadata.siteTitle}
-            </span>
+            <span className='near-white sans-serif f5 tracked mb3 db'>{data.site.siteMetadata.siteTitle} YAZILARI</span>
             <Link to='/blog' className='near-white sans-serif f5 tracked pv1 db'>
-              ALL POSTS
-            </Link>
-            <Link to='/rss.xml' className='near-white sans-serif f5 tracked pv1 db'>
-              RSS FEED
+              TÜM YAZILAR
             </Link>
           </div>
           <div className='flex flex-column'>
-            <span className='near-white sans-serif f5 tracked mb3 db'>MORE ON {data.site.siteMetadata.siteTitle}</span>
+            <span className='near-white sans-serif f5 tracked mb3 db'>{data.site.siteMetadata.siteTitle}</span>
             <Link to='/about' className='near-white sans-serif f5 tracked pv1 db'>
-              ABOUT US
+              HAKKINDA
             </Link>
-            <a href={data.site.siteMetadata.mailChimpUrl} className='near-white sans-serif f5 tracked pv1 db'>
-              NEWS LETTER
-            </a>
+            {/*             <a href={data.site.siteMetadata.mailChimpUrl} className='near-white sans-serif f5 tracked pv1 db'>
+              NEWSLETTER
+            </a> */}
           </div>
         </div>
       </footer>

@@ -24,7 +24,7 @@ export default class BlogIndex extends React.Component {
           <Breadcrumbs lastName='Blog' lastPath='/blog' currentPage={`Page ${this.props.pageContext.pageNumber}`} />
         </div>
 
-        <div className='mw9 center flex flex-wrap'>
+        <div className='mw9 center flex flex-wrap justify-between'>
           {posts.map(({ node }) => (
             <Card
               title={node.frontmatter.title}

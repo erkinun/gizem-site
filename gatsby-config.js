@@ -1,11 +1,13 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      { to: '/faq', name: 'FAQ' },
+      { to: '/faq', name: 'SSS' },
       { to: '/blog', name: 'blog' },
     ],
     title: 'GİZEM ÜNLÜ',
     titleLowerCase: 'Gizem Ünlü',
+    heroTitle: 'Merhaba ben psikolog Gizem Ünlü',
+    heroDesc: 'Burasi detaylandiralacak az sonra az sonra TBD TBD',
     description: 'Homepage and blog of psychologist Gizem Ünlü',
     siteUrl: 'https://gizemunlu.com',
     homepageHeader: "Welcome to Gizem Ünlü's blog",

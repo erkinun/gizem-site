@@ -1,31 +1,35 @@
-import React from "react"
-import Layout from '../common/layouts';
-import { graphql } from 'gatsby';
-import Hero from '../homepage/components/hero';
-import Card from '../homepage/components/card';
-import About from '../homepage/components/about';
-import Bio from '../homepage/components/bio';
-import Seo from '../common/seo';
+import React from 'react'
+import Layout from '../common/layouts'
+import { graphql } from 'gatsby'
+import Img from 'gatsby-image'
+import Hero from '../homepage/components/hero'
+import Card from '../homepage/components/card'
+import About from '../homepage/components/about'
+import Bio from '../homepage/components/bio'
+import Seo from '../common/seo'
 
 export default ({ data }) => {
-  let post = data.featuredPost.edges[0].node;
+  let post = data.featuredPost.edges[0].node
+  const site = data.site.siteMetadata
   return (
     <Layout>
-      <Seo
-        title={"Home Page"}
-        description={data.site.siteMetadata.description} />
+      <Seo title={'Home Page'} description={site.description} />
+      <Img fluid={data.banner.childImageSharp.fluid} />
       <Hero
-        title={post.frontmatter.title}
-        image={post.frontmatter.postImage.childImageSharp.fluid}
+        title={site.heroTitle}
+        image={data.banner.childImageSharp.fluid}
         to={post.frontmatter.slug}
-        description={post.frontmatter.description} />
-      <div className="flex flex-wrap center mw9 justify-around pb3">
-        {data.cards.edges.map(({node}) => (
+        description={site.heroDesc}
+        disabled={true}
+      />
+      <div className='flex flex-wrap center mw9 justify-around pb3'>
+        {data.cards.edges.map(({ node }) => (
           <Card
             title={node.frontmatter.title}
             image={node.frontmatter.postImage.childImageSharp.fluid}
             to={node.frontmatter.slug}
-            description={node.frontmatter.description} />
+            description={node.frontmatter.description}
+          />
         ))}
       </div>
       <About />
@@ -37,9 +41,10 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     featuredPost: allMarkdownRemark(
-      limit: 1,
-      sort: {order: DESC, fields: frontmatter___date},
-      filter: {frontmatter: {type: {eq: "post"}}}) {
+      limit: 1
+      sort: { order: DESC, fields: frontmatter___date }
+      filter: { frontmatter: { type: { eq: "post" } } }
+    ) {
       edges {
         node {
           frontmatter {
@@ -58,10 +63,11 @@ export const query = graphql`
       }
     }
     cards: allMarkdownRemark(
-      skip: 1,
-      limit: 3,
-      sort: {order: DESC, fields: frontmatter___date},
-      filter: {frontmatter: {type: {eq: "post"}}}) {
+      skip: 1
+      limit: 3
+      sort: { order: DESC, fields: frontmatter___date }
+      filter: { frontmatter: { type: { eq: "post" } } }
+    ) {
       edges {
         node {
           frontmatter {
@@ -82,6 +88,15 @@ export const query = graphql`
     site {
       siteMetadata {
         description
+        heroTitle
+        heroDesc
+      }
+    }
+    banner: file(relativePath: { eq: "img/about__banner.jpg" }) {
+      childImageSharp {
+        fluid(maxHeight: 720, maxWidth: 1920) {
+          ...GatsbyImageSharpFluid
+        }
       }
     }
   }
