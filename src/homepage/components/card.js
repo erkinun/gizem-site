@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import 'tachyons'
 
 export default (props) => (
-  <div className='w-100 pa2 bg-white mr4 mb4 ba b--near-white shadow-4' style={{ 'max-width': '24rem' }}>
+  <div className='w-100 pa2 bg-white mb4 ba b--near-white shadow-4' style={{ 'max-width': '24rem' }}>
     <Link to={props.to} className='no-underline'>
       <Img fluid={props.image} alt='' className='w-100 h5' />
       <div className='pa2 display dark-gray f3 tc mb3 h3 '>{props.title}</div>

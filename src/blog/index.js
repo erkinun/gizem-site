@@ -2,7 +2,6 @@ import React from 'react'
 import Layout from '../common/layouts'
 import { Link, graphql } from 'gatsby'
 import Breadcrumbs from './components/breadcrumbs'
-import Preview from './components/post-preview.js'
 import Seo from '../common/seo'
 import Card from '../homepage/components/card'
 import 'tachyons'
@@ -20,11 +19,11 @@ export default class BlogIndex extends React.Component {
         <div className='pv5 flex items-center justify-center bg-washed-red'>
           <h1 className='fw1 tc f2 display'>All Blog Posts</h1>
         </div>
-        <div className='mw9 center'>
+        <div className='mw9 w-90 center'>
           <Breadcrumbs lastName='Blog' lastPath='/blog' currentPage={`Page ${this.props.pageContext.pageNumber}`} />
         </div>
 
-        <div className='mw9 center flex flex-wrap justify-between'>
+        <div className='mw9 w-90 center flex flex-wrap justify-between'>
           {posts.map(({ node }) => (
             <Card
               title={node.frontmatter.title}

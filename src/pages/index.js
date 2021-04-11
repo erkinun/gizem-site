@@ -21,7 +21,7 @@ export default ({ data }) => {
         description={site.heroDesc}
         disabled={true}
       />
-      <div className='flex flex-wrap center mw9 justify-around pb3'>
+      <div className='flex flex-wrap center mw9 w-90 justify-between pb3'>
         {data.cards.edges.map(({ node }) => (
           <Card
             title={node.frontmatter.title}
