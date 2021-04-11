@@ -8,7 +8,7 @@ export default (props) => (
   <React.Fragment>
     <StaticImage
       className='center w-80 flex'
-      style={{ 'text-align': 'center' }}
+      style={{ display: 'flex !important' }}
       imgStyle={{ margin: '0 auto', 'max-width': '1400px' }}
       src='../../../content/img/white_mountain.jpg'
       alt={props.description}
