@@ -6,7 +6,7 @@ module.exports = {
     ],
     title: 'GİZEM ÜNLÜ',
     titleLowerCase: 'Gizem Ünlü',
-    heroTitle: 'Merhaba, ben Psikolog Gizem Ünlü',
+    heroTitle: 'Merhaba, ben Psikolog Gizem Ünlü!',
     heroDesc:
       'Londra’da bireysel psikolojik danışmanlık hizmeti sunuyorum. Kendinizi tanıyıp, anlamak ve hayatınızı daha anlamlı yaşamak istiyorsanız benimle iletişime geçebilirsiniz.',
     description: 'Homepage and blog of psychologist Gizem Ünlü',
