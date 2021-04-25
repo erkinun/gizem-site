@@ -5,7 +5,7 @@ author: Psikolog Gizem Ünlü
 category: Self-help
 date: 2021-04-25T11:50:02.579Z
 slug: /oz_saygi
-postImage: ./img/a456_mdh-01.jpg
+postImage: img/2020.jpeg
 metaDescription: Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir.
   Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla
   ilgilidir.
