@@ -9,7 +9,6 @@ postImage: img/2020.jpeg
 metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
   karıştırılır ancak anlamları birbirinden farklıdır.
 ---
-
 Öz saygı (benlik saygısı) bazen özgüven kelimesiyle karıştırılır ancak anlamları birbirinden farklıdır.
 
 Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. Özgüven (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir.
@@ -20,18 +19,18 @@ Düşük öz saygı, kişinin kendini değersiz algılaması hayat kalitesini ol
 
 ## Düşük öz saygı belirtileri nelerdir?
 
-- Kişi kendisinin olumlu yönlerini ve özelliklerini görmekte zorlanır.
-- Başkalarından gelecek sevgiyi kabul etmekte zorluk çeker.
-- Kişi elinde olmadığı durumlarda bile sürekli kendini suçlama eğilimindedir.
-- Kendisini bir çok açıdan yetersiz görme eğilimi vardır. Kendisini diğer insanlardan önemsiz, daha az çekici, başarısız, etrafına bir yük olarak görebilir.
-- Başarılarını hafife alır ve buna gelen övgüleri kabul etmekte zorlanabilir. (Bu belirti aynı zamanda sahtekarlık (imposter) sendromunda da görülebilmektedir).
-- Tek başına karar almakta zorlanırlar ve aldıkları kararlardan emin olamazlar.
-- Kişide göz teması kurmakta zorlanma ve konuşurken göz kaçırma eğilimi görülür.
-- Başka insanlar tarafında reddedilme kaygısı yaşarlar.
-- Başkalarına hayır demekte zorlanırlar.
-- Sosyal ortamlarda rahat edemezler.
+* Kişi kendisinin olumlu yönlerini ve özelliklerini görmekte zorlanır.
+* Başkalarından gelecek sevgiyi kabul etmekte zorluk çeker.
+* Kişi elinde olmadığı durumlarda bile sürekli kendini suçlama eğilimindedir.
+* Kendisini bir çok açıdan yetersiz görme eğilimi vardır. Kendisini diğer insanlardan önemsiz, daha az çekici, başarısız, etrafına bir yük olarak görebilir.
+* Başarılarını hafife alır ve buna gelen övgüleri kabul etmekte zorlanabilir. (Bu belirti aynı zamanda sahtekarlık (imposter) sendromunda da görülebilmektedir).
+* Tek başına karar almakta zorlanırlar ve aldıkları kararlardan emin olamazlar.
+* Kişide göz teması kurmakta zorlanma ve konuşurken göz kaçırma eğilimi görülür.
+* Başka insanlar tarafında reddedilme kaygısı yaşarlar.
+* Başkalarına hayır demekte zorlanırlar.
+* Sosyal ortamlarda rahat edemezler.
 
-[](https://www.pexels.com/tr-tr/fotograf/gunbatimi-sirasinda-kumsalda-kaldirilmis-kollari-olan-kadin-320007/)
+![](img/another_now.jpg)
 
 ## Öz saygımı nasıl artırabilirim?
 
