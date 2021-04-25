@@ -9,7 +9,7 @@ collections:
   - name: blog
     label: Blog
     folder: content/posts
-    public_folder: content/posts/img
+    media_folder: content/posts/img
     create: true
     fields:
       - { name: type, label: Type }
