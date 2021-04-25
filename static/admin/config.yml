@@ -2,14 +2,11 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: static/assets
-public_folder: /assets
-
 collections:
   - name: blog
     label: Blog
     folder: content/posts
-    media_folder: content/posts/img
+    media_folder: img
     create: true
     fields:
       - { name: type, label: Type }
