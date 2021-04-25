@@ -9,6 +9,7 @@ collections:
   - name: blog
     label: Blog
     folder: content/posts
+    public_folder: content/posts/img
     create: true
     fields:
       - { name: type, label: Type }
@@ -17,6 +18,6 @@ collections:
       - { name: category, label: Category }
       - { name: date, label: Date, widget: datetime }
       - { name: slug, label: Path }
-      - { name: postImage, label: Image, widget: 'image' }
+      - { name: postImage, label: Image, widget: 'image', media_folder: 'img' }
       - { name: metaDescription, label: Description }
       - { name: body, label: Body, widget: markdown }
