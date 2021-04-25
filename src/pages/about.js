@@ -1,20 +1,14 @@
 import React from 'react'
 import Layout from '../common/layouts'
 import Img from 'gatsby-image'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Seo from '../common/seo'
 
 export default ({ props, data }) => (
   <Layout>
     <Seo title={`About ${data.site.siteMetadata.title}`} description={data.markdownRemark.frontmatter.title} />
-    <div className='relative'>
-      <Img fluid={data.banner.childImageSharp.fluid} />
-      <h1
-        className='fw1 center tc f2 display absolute dn dib-ns'
-        style={{ bottom: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}
-      >
-        {data.site.siteMetadata.title}
-      </h1>
+    <div className='relative logo-bg'>
+      <Img fluid={data.banner.childImageSharp.fluid} className='w-100 mw7 h6 c-m' />
     </div>
     <div className='mw9 center pv5-l w-100'>
       <div className='mw8 center w-100 pa2'>
@@ -41,9 +35,9 @@ export const dataQuery = graphql`
         title
       }
     }
-    banner: file(relativePath: { eq: "img/about__banner.jpg" }) {
+    banner: file(relativePath: { eq: "img/logo.jpg" }) {
       childImageSharp {
-        fluid(maxHeight: 720, maxWidth: 1920) {
+        fluid(maxWidth: 1080, maxHeight: 1080) {
           ...GatsbyImageSharpFluid
         }
       }

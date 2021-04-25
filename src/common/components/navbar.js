@@ -1,6 +1,7 @@
 import React from 'react'
 import { StaticQuery, graphql, Link } from 'gatsby'
 import { FiMenu } from 'react-icons/fi'
+import Img from 'gatsby-image'
 import '../styles/custom.tachyons.css'
 
 const MultiLink = (props) => {
@@ -46,7 +47,7 @@ const SliderMenu = (props) => {
         </MultiLink>
       ))}
       <Link to='/about' className={'sans-serif ttu mid-gray f5 no-underline menu__item pv3' + extraClasses}>
-        About
+        Hakkında
       </Link>
     </div>
   )
@@ -91,7 +92,7 @@ export default class Navbar extends React.Component {
               className='bg-white flex w-100 vh-7 pv3 flex justify-between items-center top-0 z-999 bb b--light-gray'
               style={{ position: 'sticky' }}
             >
-              <div className='w-100 mw8 flex justify-between justify-around-l items-center ph4 pa2-ns'>
+              <div className='w-100 mw8 h4 flex justify-between justify-around-l items-center ph4 pa2-ns'>
                 <button
                   className='ttu tracked dark-gray f4 no-underline bn bg-transparent pointer'
                   onClick={this.toggleMenu}
