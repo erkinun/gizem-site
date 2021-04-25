@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
+media_folder: static/assets
+
 collections:
   - name: blog
     label: Blog
