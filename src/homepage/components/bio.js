@@ -4,7 +4,7 @@ import Img from 'gatsby-image'
 import 'tachyons'
 
 export default () => (
-  <div className='pv5 pa2 flex flex-wrap mw9 center justify-around items-center'>
+  <div className='pv5 pa2 flex flex-wrap mw9 center items-center' style={{ justifyContent: 'space-evenly' }}>
     <StaticQuery
       query={graphql`
         query {
@@ -26,8 +26,8 @@ export default () => (
       render={(data) => (
         <React.Fragment>
           <Img fluid={data.image.childImageSharp.fluid} alt='Logo' className='w-100 mw6' />
-          <div class='w-100 pa2 mw6 mv4'>
-            <span className='db f2 display dark-gray'>{data.copy.frontmatter.title}</span>
+          <div class='w-100 pa2 mw6 mv4 bb'>
+            <span className='db f3 display dark-gray'>{data.copy.frontmatter.title}</span>
             <div className='lh-copy f5 serif mt4' dangerouslySetInnerHTML={{ __html: data.copy.html }} />
           </div>
         </React.Fragment>
