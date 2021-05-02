@@ -17,8 +17,6 @@ metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
 
 Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini oldukça düşüren bir durumdur. Düşük öz saygı kökeni çoğunlukla çocukluk yıllarına dayanmaktadır. Ebeveynlerinizin size davranışı ya da uzun bir süre ebeveyninizden ayrı kalmak, okulda diğer çocukların davranışı, başınıza gelen olaylar... Bütün bunlar öz saygının oluşmasına etki sahibidir. Örneğin, çocuğun hiç bir başarısını takdir etmeyen, eleştirel bir aileye sahip olan ya da okulda zorbalığa maruz kalmış bir çocuğun düşük öz saygı sorunu yaşama ihtimali yüksektir.
 
-![Boomer]()
-
 ## Düşük öz saygı belirtileri nelerdir?
 
 * Bu kişiler kendilerinin olumlu yönlerini ve özelliklerini görmekte zorlanırlar.
