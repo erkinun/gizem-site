@@ -9,7 +9,6 @@ postImage: img/mehrnegar-dolatmand-wpb6knwvzws-unsplash.jpg
 metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
   karıştırılır ancak anlamları birbirinden farklıdır.
 ---
-Öz saygı (benlik saygısı) bazen özgüven kelimesiyle karıştırılır ancak anlamları birbirinden farklıdır.
 
 Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. Özgüven (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir.
 
