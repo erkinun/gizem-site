@@ -30,7 +30,6 @@ Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini o
 * Başkalarına hayır demekte zorlanırlar.
 * Sosyal ortamlarda rahat edemezler.
 
-![]()
 
 ## Öz saygımı nasıl artırabilirim?
 
