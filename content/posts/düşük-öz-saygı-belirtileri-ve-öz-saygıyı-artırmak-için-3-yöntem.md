@@ -5,7 +5,7 @@ author: Psikolog Gizem Ünlü
 category: Self-help
 date: 2021-04-25T11:50:02.579Z
 slug: /oz_saygi
-postImage: img/brooke-cagle-qj1j4hodnti-unsplash.jpg
+postImage: img/self_esteem_blog_1.jpg
 metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
   karıştırılır ancak anlamları birbirinden farklıdır.
 ---
