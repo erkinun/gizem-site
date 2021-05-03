@@ -9,10 +9,11 @@ postImage: img/brooke-cagle-qj1j4hodnti-unsplash.jpg
 metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
   karıştırılır ancak anlamları birbirinden farklıdır.
 ---
-
 Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. Özgüven (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir.
 
 Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini oldukça düşüren bir durumdur. Düşük öz saygı kökeni çoğunlukla çocukluk yıllarına dayanmaktadır. Ebeveynlerinizin size davranışı ya da uzun bir süre ebeveyninizden ayrı kalmak, okulda diğer çocukların davranışı, başınıza gelen olaylar... Bütün bunlar öz saygının oluşmasına etki sahibidir. Örneğin, çocuğun hiç bir başarısını takdir etmeyen, eleştirel bir aileye sahip olan ya da okulda zorbalığa maruz kalmış bir çocuğun düşük öz saygı sorunu yaşama ihtimali yüksektir.
+
+![](img/self_esteem_blog_1.jpg)
 
 ## Düşük öz saygı belirtileri nelerdir?
 
@@ -26,7 +27,6 @@ Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini o
 * Başka insanlar tarafında reddedilme kaygısı yaşarlar.
 * Başkalarına hayır demekte zorlanırlar.
 * Sosyal ortamlarda rahat edemezler.
-
 
 ## Öz saygımı nasıl artırabilirim?
 
