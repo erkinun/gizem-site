@@ -61,7 +61,7 @@ export const query = graphql`
       }
     }
     cards: allMarkdownRemark(
-      skip: 1
+      skip: 0
       limit: 3
       sort: { order: DESC, fields: frontmatter___date }
       filter: { frontmatter: { type: { eq: "post" } } }
