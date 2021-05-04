@@ -9,7 +9,7 @@ postImage: img/self_esteem_blog_1.jpg
 metaDescription: Öz saygı (benlik saygısı) bazen özgüven kelimesiyle
   karıştırılır ancak anlamları birbirinden farklıdır.
 ---
-Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. Özgüven (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir.
+Öz saygı (benlik saygısı) bazen özgüven kelimesiyle karıştırılır ancak anlamları birbirinden farklıdır. Öz saygı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. Özgüven (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir.
 
 Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini oldukça düşüren bir durumdur. Düşük öz saygı kökeni çoğunlukla çocukluk yıllarına dayanmaktadır. Ebeveynlerinizin size davranışı ya da uzun bir süre ebeveyninizden ayrı kalmak, okulda diğer çocukların davranışı, başınıza gelen olaylar... Bütün bunlar öz saygının oluşmasına etki sahibidir. Örneğin, çocuğun hiç bir başarısını takdir etmeyen, eleştirel bir aileye sahip olan ya da okulda zorbalığa maruz kalmış bir çocuğun düşük öz saygı sorunu yaşama ihtimali yüksektir.
 
@@ -21,7 +21,7 @@ Düşük öz saygı, kişinin kendini değersiz algılaması, hayat kalitesini o
 * Başkalarından gelecek sevgiyi kabul etmekte zorluk çekerler.
 * Ellerinde olmadığı durumlarda bile sürekli kendilerini suçlama eğilimindedirler.
 * Kendilerini bir çok açıdan yetersiz görme eğilimleri vardır. Böyle bir kişi kendisini diğer insanlardan önemsiz, daha az çekici, başarısız, etrafına bir yük olarak görebilir.
-* Başarılarını hafife alırlar ve buna gelen övgüleri kabul etmekte zorlanabilirler. (Bu belirti aynı zamanda sahtekarlık (imposter) sendromunda da görülebilmektedir).
+* Başarılarını hafife alırlar ve buna gelen övgüleri kabul etmekte zorlanabilirler. (Bu belirti aynı zamanda sahtekarlık (imposter) sendromunda da görülebilmektedir.)
 * Bu kişiler tek başına karar almakta zorlanırlar ve aldıkları kararlardan emin olamazlar.
 * Göz teması kurmakta zorlanma ve konuşurken göz kaçırma eğilimi görülür.
 * Başka insanlar tarafında reddedilme kaygısı yaşarlar.
