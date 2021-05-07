@@ -1,10 +1,10 @@
 ---
-type: Self-help
+type: post
 title: "En çok karşılaşılan 7 düşünce hatası: Siz hangilerine sahipsiniz?"
 author: Psikolog Gizem Ünlü
 category: Self-help
 date: 2021-05-07T06:18:34.216Z
-slug: Self-help
+slug: /dusunce_hatalari
 postImage: img/ashley-batz-betmvwgycly-unsplash.jpg
 metaDescription: Bilişsel çarpıtma olarak da adlandırılan düşünce hataları,
   iletişim, ilişki sorunları ve sağlıksız kararlar dahil olmak üzere anksiyete
