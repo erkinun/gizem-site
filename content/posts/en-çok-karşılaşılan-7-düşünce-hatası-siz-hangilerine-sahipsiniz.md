@@ -23,7 +23,7 @@ Olayları orta yolu görmeden sadece iki uçtaymış gibi algılamaktır. Siyah-
 * "Nasılsa dün diyeti bozdum bugün de diyetime uymayacağım."
 * "Bir işi yapacaksam en mükemmel şekilde yaparım yoksa yapmasam daha iyi."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Dün diyete uymamış olabilirim ama bugün kaldığım yerden diyete devam edeceğim."
 * "Bu işe başlıyorum ve elimden gelenin en iyisini yapmaya çalışacağım. Mükemmel olmasa da olur."
@@ -35,7 +35,7 @@ Kişinin herhangi bir sorunu çözemediği takdirde bu kendisi için dünyanın 
 * "Eğer bu işi zamanında yetiştiremezsem mahvolurum."
 * "Eğer bu buluşmaya geç kalırsam her şey biter."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Bu işi zamanında yetiştirmeye çalışacağım ama yetiştiremezsem sadece biraz gecikmiş olacağım ve bu dünyanın sonu değil. Olası sonuçlarıyla baş ederim."
 * "Bu buluşmaya geç kalırsam, neden geciktiğimi açıklar, özür dilerim, anlayışla karşılamalarını beklerim."
