@@ -47,7 +47,7 @@ Kişinin kendine ya da başkalarına katı, genel ve olumsuz sıfatlar atfetmesi
 * "Erkek arkadaşım doğum günümü unuttu, bu onun ne kadar kötü bir sevgili olduğunu gösteriyor."
 * "Bu sınavdan geçemediğim için başarısızın tekiyim."
 
-Daha doğru bir düşünme şekli:
+<u>Daha doğru bir düşünme şekli:</u>
 
 * "Erkek arkadaşım doğum günümü unutmuş olabilir ama bunun bir çok sebebi olabilir, bu onu doğrudan kötü bir sevgili yapmaz. Ona bunun beni ne kadar kötü hissettirdiğini söyleyip, ondan kendisini açıklamasını isteyeceğim."
 * "Bu sınavdan geçememiş olabilirim ama eksikliklerimi fark ettim, daha çok çalışıp bir sonraki seferde geçeceğim."
