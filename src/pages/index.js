@@ -27,6 +27,8 @@ export default ({ data }) => {
             image={node.frontmatter.postImage.childImageSharp.fluid}
             to={node.frontmatter.slug}
             description={node.frontmatter.description}
+            date={node.frontmatter.date}
+            category={node.frontmatter.category}
           />
         ))}
       </div>
@@ -70,6 +72,8 @@ export const query = graphql`
         node {
           frontmatter {
             title
+            date(formatString: "MMM Do YYYY")
+            category
             description: metaDescription
             slug
             postImage {
