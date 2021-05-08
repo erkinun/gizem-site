@@ -59,7 +59,7 @@ Başka bir kişinin kendimizle ilgili farazi ve genellikle olumsuz düşünceler
 * "Yanımdan geçerken selam vermedi, beni artık umursamıyor."
 * "Takım liderim son zamanlarda bana basit işler vermeye başladı demek ki bana artık güvenmiyor."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Yanımdan geçerken selam vermedi ama beni görmemiş ya da bir yere yetişmeye çalışıyor olabilir, bir sonraki görüşümüzde ben selam vereyim."
 * "Takım liderimin son zamanlarda bana beklediğimden daha kolay işler verdiğini fark ettim, bunun bir çok sebebi olabilir. En iyisi onunla konuşup daha zor işlerin başından kalkabileceğimi söyleyeyim."
@@ -71,7 +71,7 @@ Tüm pozitif olayları önemsiz olarak kabul etmektir.
 * "İyi bir not aldım ama çok önemli değil, herkes yapabilirdi."
 * "Müdürüm bana öylesine övgü veriyor, iyi çalıştığım için değil. Dolayısıyla bu övgüleri ciddiye alamam."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "İyi bir not aldım çünkü çok bu sınava çok çalıştım ve bu notu hak ettim."
 * "Müdürüm bana çalışkan olduğum ve işimde iyi olduğum için övgü veriyor, bu övgüleri kabul edebilirim."
@@ -83,7 +83,7 @@ Bir talihsiz olayı alıp onunla ilgili olaylar hakkında olumsuz genel bir çı
 * "Bu işe giremedim, asla iş bulamayacağım."
 * "O da benden ayrıldı, kimse beni sevmeyecek."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Bu işe girememiş olabilirim ama bu bundan sonra hiç bir zaman işe giremeyeceğim anlamına gelmiyor, iş başvurularıma devam edeceğim."
 * "Benden ayrılması bende bir sorun olduğu ve sevilmez bir insan olduğum anlamına gelmiyor, elbet beni gerçekten sevecek biri karşıma çıkacak."
@@ -95,7 +95,7 @@ Tamamen bizim kontrolümüzde olmayan olumsuz olayların sorumluluğunu kendi ü
 * "Sözleşmeyi kaybetmemizin tek sorumlusu benim"
 * "Oğlum sınavdan düşük not aldı, bu benim suçum."
 
-Daha doğru bir düşünme şekli:
+<ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Sözleşmeyi takım olarak kaybettik, dolayısıyla tüm sorumluluğu üzerime alamam."
 * "Oğlum sınavdan düşük almasının birden çok sebebi olabilir, bu benim iyi bir anne olmamam anlamına gelmiyor. Belki zor zamanlardan geçiyor olabilir, en iyisi oğlumla konuşayım."
