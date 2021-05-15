@@ -136,3 +136,7 @@
   margin-right: auto;
   margin-left: auto;
 }
+
+.gatsby-image-wrapper-constrained {
+  display: flex !important;
+}
