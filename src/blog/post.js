@@ -1,23 +1,14 @@
-import React from 'react';
-import Layout from '../common/layouts';
-import Hero from './components/hero.js';
-import Body from './components/body.js';
-import Seo from './seo.js';
-import MetaSeo from '../common/seo';
-import { graphql } from 'gatsby';
+import React from 'react'
+import Layout from '../common/layouts'
+import Hero from './components/hero.js'
+import Body from './components/body.js'
+import Seo from './seo.js'
+import MetaSeo from '../common/seo'
+import { graphql } from 'gatsby'
 
-
-export default ({location, data }) => {
-  const {
-    category,
-    date,
-    dateOriginal,
-    author,
-    title,
-    slug,
-    metaDescription
-  } = data.post.frontmatter;
-  const content = data.post.html;
+export default ({ location, data }) => {
+  const { category, date, dateOriginal, author, title, slug, metaDescription } = data.post.frontmatter
+  const content = data.post.html
   return (
     <Layout>
       <Seo
@@ -26,12 +17,12 @@ export default ({location, data }) => {
         date={dateOriginal}
         description={metaDescription}
         author={author}
-        image={data.post.frontmatter.postImage.childImageSharp.original.src} />
-      <MetaSeo
-        title={title}
-        description={metaDescription} />
+        image={data.post.frontmatter.postImage.childImageSharp.original.src}
+      />
+      <MetaSeo title={title} description={metaDescription} />
       <Hero author={author} date={date} category={category} title={title} />
       <Body
+        slug={slug}
         content={content}
         description={metaDescription}
         image={data.post.frontmatter.postImage.childImageSharp.original.src}
@@ -41,13 +32,12 @@ export default ({location, data }) => {
   )
 }
 
-
 export const query = graphql`
   query($slug: String!) {
-    post: markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    post: markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
-        date(formatString: "MMM Do, YYYY")
+        date(formatString: "Do MMMM, YYYY", locale: "tr")
         dateOriginal: date
         category
         author
@@ -66,7 +56,7 @@ export const query = graphql`
         }
       }
     }
-    date: markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    date: markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       frontmatter {
         date
       }
