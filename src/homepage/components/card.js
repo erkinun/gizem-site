@@ -12,7 +12,7 @@ export default (props) => (
       <Img fluid={props.image} alt='' className='w-100 h5' />
       <div className='mv3 flex justify-between'>
         <div className='db f6 silver ttu tracked sans-serif'>{props.date}</div>
-        <div className='db f6 silver ttu tracked sans-serif'>TAGGED: {props.category}</div>
+        <div className='db f6 silver ttu tracked sans-serif'>{props.category}</div>
       </div>
       <div className='display dark-gray f3 mb3'>{props.title}</div>
       <div className='serif near-black f5 lh-copy serif mb4'>{props.description}</div>

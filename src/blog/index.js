@@ -59,7 +59,7 @@ export const blogListQuery = graphql`
         node {
           frontmatter {
             title
-            date(formatString: "MMM Do YYYY")
+            date(formatString: "Do MMMM YYYY", locale: "tr")
             category
             metaDescription
             slug

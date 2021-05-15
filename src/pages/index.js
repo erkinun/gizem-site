@@ -72,7 +72,7 @@ export const query = graphql`
         node {
           frontmatter {
             title
-            date(formatString: "MMM Do YYYY")
+            date(formatString: "Do MMMM YYYY", locale: "tr")
             category
             description: metaDescription
             slug
