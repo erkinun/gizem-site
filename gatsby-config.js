@@ -4,7 +4,7 @@ module.exports = {
       { to: '/faq', name: 'SSS' },
       { to: '/blog', name: 'blog' },
     ],
-    title: 'Psikolog GİZEM ÜNLÜ',
+    title: 'PSİKOLOG GİZEM ÜNLÜ',
     titleLowerCase: 'Psikolog Gizem Ünlü',
     heroTitle: 'Merhaba, ben Psikolog Gizem Ünlü!',
     heroDesc:
