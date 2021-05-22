@@ -13,7 +13,7 @@ export default class BlogIndex extends React.Component {
     return (
       <Layout>
         <Seo
-          title={`All Blog Posts - Page ${this.props.pageContext.pageNumber}`}
+          title={`Tüm Blog Yazıları - Sayfa ${this.props.pageContext.pageNumber}`}
           description={`Index of all blog posts. Page ${this.props.pageContext.pageNumber}`}
         />
         <div className='pv5 flex items-center justify-center bg-washed-red'>
