@@ -11,7 +11,7 @@ export default ({ data }) => {
   const site = data.site.siteMetadata
   return (
     <Layout>
-      <Seo title={'Home Page'} description={site.description} />
+      <Seo title={'Ana sayfa'} description={site.description} />
       <Hero
         title={site.heroTitle}
         image='../../content/img/white_mountain.jpg'

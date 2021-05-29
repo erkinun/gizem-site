@@ -26,6 +26,12 @@ export default () => (
           <div className='w-100 mw5 mb4'>
             <span className='display f2'>{data.site.siteMetadata.siteTitle}</span>
             <hr />
+            <Link to='/blog' className='near-white sans-serif f5 tracked pv1 db'>
+              TÜM YAZILAR
+            </Link>
+            <Link to='/about' className='near-white sans-serif f5 tracked pv1 db'>
+              HAKKINDA
+            </Link>
             <div className='w-100 flex justify-around items-center pv2'>
               {data.site.siteMetadata.facebook && (
                 <a className='near-white' href={data.site.siteMetadata.facebook}>
@@ -59,16 +65,9 @@ export default () => (
             </div>
           </div>
           <div className='flex flex-column'>
-            <span className='near-white sans-serif f5 tracked mb3 db'>{data.site.siteMetadata.siteTitle} YAZILARI</span>
-            <Link to='/blog' className='near-white sans-serif f5 tracked pv1 db'>
-              TÜM YAZILAR
-            </Link>
-          </div>
-          <div className='flex flex-column'>
-            <span className='near-white sans-serif f5 tracked mb3 db'>{data.site.siteMetadata.siteTitle}</span>
-            <Link to='/about' className='near-white sans-serif f5 tracked pv1 db'>
-              HAKKINDA
-            </Link>
+            <span className='near-white sans-serif f5 tracked mb3 db b'>İLETİŞİM</span>
+            <p>Randevu almak ve soru sormak için aşağıdaki email adresini kullanabilirsiniz:</p>
+            <span className='b underline'>psk.gizemunlu@gmail.com</span>
             {/*             <a href={data.site.siteMetadata.mailChimpUrl} className='near-white sans-serif f5 tracked pv1 db'>
               NEWSLETTER
             </a> */}
