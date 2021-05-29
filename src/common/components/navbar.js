@@ -111,11 +111,7 @@ export default class Navbar extends React.Component {
                   </MultiLink>
                 ))}
               </div>
-              <div className='dn w-100 mw5 flex-l justify-around items-center'>
-                <Link to='/about' className='sans-serif ttu mid-gray f5 no-underline dn dib-l'>
-                  HAKKINDA
-                </Link>
-              </div>
+              <div className='dn w-100 mw5 flex-l justify-around items-center'></div>
             </div>
             <SliderMenu
               active={this.state.menuToggle}

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      { to: '/faq', name: 'SSS' },
+      { to: '/about', name: 'HAKKINDA' },
       { to: '/blog', name: 'blog' },
     ],
     title: 'PSİKOLOG GİZEM ÜNLÜ',
