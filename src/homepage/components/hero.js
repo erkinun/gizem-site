@@ -14,7 +14,7 @@ export default (props) => (
       alt={props.description}
       width={1200}
       height={500}
-      quality={100}
+      quality={80}
     />
     <div className='h-auto bg-near-white mw9 w-80 flex flex-column items-center justify-center pv5 ph2 center'>
       <span className='fw1 display dark-gray db tc w-100 mw7 f3 f2-ns'>{props.title}</span>
