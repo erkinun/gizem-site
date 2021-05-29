@@ -14,7 +14,11 @@ export default (props) => (
       }
     `}
     render={(data) => (
-      <Helmet>
+      <Helmet
+        htmlAttributes={{
+          lang: 'tr',
+        }}
+      >
         <title>{props.title + ' - ' + data.site.siteMetadata.title}</title>
         <meta name='description' content={props.description} />
       </Helmet>
