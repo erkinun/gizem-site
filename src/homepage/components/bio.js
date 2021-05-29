@@ -4,7 +4,7 @@ import Img from 'gatsby-image'
 import 'tachyons'
 
 export default () => (
-  <div className='pv5 pa2 flex flex-wrap mw9 center items-center' style={{ justifyContent: 'space-evenly' }}>
+  <div className='pv5 pa2 flex flex-wrap mw9 w-90 center items-center bt' style={{ justifyContent: 'space-evenly' }}>
     <StaticQuery
       query={graphql`
         query {

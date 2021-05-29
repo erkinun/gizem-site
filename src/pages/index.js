@@ -19,7 +19,7 @@ export default ({ data }) => {
         description={site.heroDesc}
         disabled={true}
       />
-      <div className='flex flex-wrap center mw9 w-90 pb3' style={{ justifyContent: 'space-evenly' }}>
+      <div className='flex flex-wrap center mw9 w-90 pb3 bt pv5' style={{ justifyContent: 'space-evenly' }}>
         {data.cards.edges.map(({ node }) => (
           <Card
             title={node.frontmatter.title}
