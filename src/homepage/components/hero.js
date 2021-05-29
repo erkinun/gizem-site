@@ -9,9 +9,9 @@ export default (props) => (
     <StaticImage
       className='center w-80 flex'
       style={{ display: 'flex !important' }}
+      imgStyle={{ margin: '0 auto', 'max-width': '1200px' }}
       src='../../../content/img/white_mountain.jpg'
       alt={props.description}
-      layout='fixed'
       width={1200}
       height={500}
       quality={100}
