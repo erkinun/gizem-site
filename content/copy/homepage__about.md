@@ -11,6 +11,6 @@ title: 'Danışmanlığını yaptığım çeşitli psikolojik rahatsızlıklar:'
 - Öfke
 - Düşük benlik saygısı ve zayıf özgüven
 - Yeme bozuklukları
-- Ölüm,kayıp ve yas
+- Ölüm, kayıp ve yas
 - Evlilik ve ilişki problemleri
 - Yaşamsal değişimlerle ilgili sorunlar (göçmenlik, emeklilik, hamilelik sonrası depresyon,kariyer değişimi vb.)

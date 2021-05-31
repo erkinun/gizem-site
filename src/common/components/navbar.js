@@ -9,7 +9,7 @@ const MultiLink = (props) => {
   let result
   if (internal) {
     result = (
-      <Link to={props.to} className={props.className}>
+      <Link to={props.to} className={props.className} onClick={props.onClick}>
         {props.children}
       </Link>
     )
@@ -38,17 +38,22 @@ const SliderMenu = (props) => {
         (props.active ? ' vh-93' : ' h0')
       }
     >
-      <Link to='/' className={'display ttu tracked dark-gray f3 no-underline menu__item pv5' + extraClasses}>
-        {props.siteTitle}
-      </Link>
+      <MultiLink
+        to='/'
+        className={'sans-serif ttu mid-gray f5 no-underline menu__item pv3' + extraClasses}
+        onClick={props.toggleMenu}
+      >
+        ANASAYFA
+      </MultiLink>
       {props.extraLinks.map((navLink) => (
-        <MultiLink to={navLink.to} className={'sans-serif ttu mid-gray f5 no-underline menu__item pv3' + extraClasses}>
+        <MultiLink
+          to={navLink.to}
+          className={'sans-serif ttu mid-gray f5 no-underline menu__item pv3' + extraClasses}
+          onClick={props.toggleMenu}
+        >
           {navLink.name}
         </MultiLink>
       ))}
-      <Link to='/about' className={'sans-serif ttu mid-gray f5 no-underline menu__item pv3' + extraClasses}>
-        Hakkında
-      </Link>
     </div>
   )
 }
@@ -117,6 +122,7 @@ export default class Navbar extends React.Component {
               active={this.state.menuToggle}
               extraLinks={data.site.siteMetadata.navbarLinks}
               siteTitle={data.site.siteMetadata.siteTitle}
+              toggleMenu={() => this.toggleMenu()}
             />
           </React.Fragment>
         )}
