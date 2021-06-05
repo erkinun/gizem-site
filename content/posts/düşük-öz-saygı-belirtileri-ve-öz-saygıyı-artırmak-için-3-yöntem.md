@@ -42,8 +42,8 @@ Ne konuda iyisiniz? Neleri iyi yapıyorsunuz? Güçlü yanlarınız neler? Bunla
 Hedefler hayatımıza bir yön verir ve bize motivasyon sağlar. Gerçekçi ve ulaşılabilir hedefler koymak ve bunlar için çalışmak özgüveni artırmaya yardımcı olur. Hedef ve değerlerimize uygun davrandığımızda kendimizle bütünleşir, geliştiğimizi ve büyüdüğümüzü hissederiz. Ancak gerçekçi olmayan, ve kendi değerlerimize aykırı olan (başkalarının değerlerine uygun olan) ulaşması çok zor hedefler koymak, bir hedef için sürekli uğraşmak ama asla ulaşamamak özgüveni zedeleyebilir. Aynı şekilde mükemmeliyetçilik de sizi paralize eder ve hedeflerinize ulaşmanızı engeller. Hedef belirlemede dikkat edilmesi gereken bir kaç noktadan bahsedelim:
 
 * Hedefin gerçekçi ve ulaşılabilir olduğundan emin olun.
-* Mükemmel olmayı beklemeyin ve hedeflerinize doğru attığınız her adımda kendinizle gurur duyun.
 * Hedefleriniz için tamamlamanız gereken küçük adımları belirleyin, hedefinize ulaşmak için sırayla neleri yapmanız gerekiyorsa onları tek tek yazın.
+* Mükemmel olmayı beklemeyin ve hedeflerinize doğru attığınız her adımda kendinizle gurur duyun.
 
 ### 3. **Bizi sürekli eleştiren ve cezalandıran iç sesimizi kısmak**
 
