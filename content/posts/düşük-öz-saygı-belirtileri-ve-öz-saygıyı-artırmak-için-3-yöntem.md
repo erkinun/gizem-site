@@ -6,9 +6,9 @@ category: Self-help
 date: 2021-04-25T11:50:02.579Z
 slug: /ozguven
 postImage: img/self_esteem_blog_1.jpg
-metaDescription: Düşük özgüven, kişinin kendini değersiz algılaması, hayat
-  kalitesini oldukça düşüren bir durumdur. Düşük özgüvenin kökeni çoğunlukla
-  çocukluk yıllarına dayanmaktadır.
+metaDescription: Düşük özgüven, yani kişinin kendini olumsuz olarak
+  değerlendirmesi, hayat kalitesini oldukça düşüren bir durumdur. Düşük
+  özgüvenin kökeni çoğunlukla çocukluk yıllarına dayanmaktadır.
 ---
 Özgüven günlük hayatta daha çok benlik saygısı anlamında kullanır. Bazen de kendine güvenmek anlamında kullanılır ancak bu iki kavram birbirinden farklıdır. **Benlik saygısı (self-esteem)** kendimize verdiğimiz öznel değerdir. Kendini olduğundan aşağı ya da olduğundan üstün görmeksizin kendinden memnun olmak, kendini değerli, olumlu ve sevilmeye değer bulmaktır. **Kendine güven (self-confidence)** ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir. Bu yazıda özgüven terimini benlik saygısı anlamında kullanacağım.
 
@@ -24,14 +24,14 @@ Düşük özgüven, yani kişinin kalıcı ve sürekli bir şekilde kendisini ol
 * Başkalarından gelecek sevgiyi kabul etmekte zorluk çekerler.
 * Ellerinde olmadığı durumlarda bile sürekli kendilerini suçlama eğilimindedirler.
 * Kendilerini bir çok açıdan yetersiz görme eğilimleri vardır. Böyle bir kişi kendisini diğer insanlardan önemsiz, daha az çekici, başarısız, etrafına bir yük olarak görebilir.
-* Başarılarını hafife alırlar ve buna gelen övgüleri kabul etmekte zorlanabilirler. (Bu belirti aynı zamanda sahtekarlık (imposter) sendromunda da görülebilmektedir.)
+* Başarılarını hafife alırlar ve gelen övgüleri kabul etmekte zorlanabilirler.
 * Bu kişiler tek başına karar almakta zorlanırlar ve aldıkları kararlardan emin olamazlar.
 * Göz teması kurmakta zorlanma ve konuşurken göz kaçırma eğilimi görülür.
 * Başka insanlar tarafında reddedilme kaygısı yaşarlar.
 * Başkalarına hayır demekte zorlanırlar.
 * Sosyal ortamlarda rahat edemezler.
 
-## Özgüvenimi nasıl artırabilirim?
+## Özgüveni geliştirmek için 3 yöntem:
 
 ### 1. **Karakterimizdeki değerli özellikleri, kişisel niteliklerimizi bulmak ve bunları onaylamak**
 
