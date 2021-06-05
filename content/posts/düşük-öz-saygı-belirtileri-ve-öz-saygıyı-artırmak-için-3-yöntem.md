@@ -1,18 +1,20 @@
 ---
 type: post
-title: Düşük özgüven belirtileri ve özgüveni artırmak için 3 yöntem
+title: Düşük özgüven belirtileri ve özgüveni geliştirmek için 3 yöntem
 author: Psikolog Gizem Ünlü
 category: Self-help
 date: 2021-04-25T11:50:02.579Z
-slug: /oz_saygi
+slug: /ozguven
 postImage: img/self_esteem_blog_1.jpg
 metaDescription: Düşük özgüven, kişinin kendini değersiz algılaması, hayat
   kalitesini oldukça düşüren bir durumdur. Düşük özgüvenin kökeni çoğunlukla
   çocukluk yıllarına dayanmaktadır.
 ---
-Özgüven kelimesi daha çok benlik saygısı (öz saygı) anlamında kullanır. Bazen de "Kendine güven" kelimesiyle karıştırılır ancak bu iki kavram birbirinden farklıdır. Benlik saygısı (self-esteem) kendimize verdiğimiz öznel değerdir. Başkalarının ne düşündüğü değil kendi değerimizi nasıl algıladığımızla ilgilidir. "Kendine güven" (self-confidence) ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir. Bu makalede özgüveni benlik saygısı anlamında kullanacağım.
+Özgüven günlük hayatta daha çok benlik saygısı anlamında kullanır. Bazen de kendine güvenmek anlamında kullanılır ancak bu iki kavram birbirinden farklıdır. **Benlik saygısı (self-esteem)** kendimize verdiğimiz öznel değerdir. Kendini olduğundan aşağı ya da olduğundan üstün görmeksizin kendinden memnun olmak, kendini değerli, olumlu ve sevilmeye değer bulmaktır. **Kendine güven (self-confidence)** ise görevlerimizi ve sorumluluklarımızı yerine getirebileceğimize dair kendimize olan güvenimizdir. Bu yazıda özgüven terimini benlik saygısı anlamında kullanacağım.
 
-Düşük özgüven, kişinin kendini değersiz algılaması, hayat kalitesini oldukça düşüren bir durumdur. Düşük özgüvenin kökeni çoğunlukla çocukluk yıllarına dayanmaktadır. Ebeveynlerinizin size davranışı ya da uzun bir süre ebeveyninizden ayrı kalmak, okulda diğer çocukların davranışı, başınıza gelen olaylar... Bütün bunlar özgüvenin oluşmasına etki sahibidir. Örneğin, çocuğun hiç bir başarısını takdir etmeyen, eleştirel bir aileye sahip olan ya da okulda zorbalığa maruz kalmış bir çocuğun düşük özgüven sorunu yaşama ihtimali yüksektir.
+Düşük özgüven, yani kişinin kalıcı ve sürekli bir şekilde kendisini olumsuz değerlendirmesi hayat kalitesini oldukça düşüren bir durumdur. Özgüven erken çocukluk yıllarında oluşmaya başlar. Ebeveynlerinizle aranızdaki bağlanma ilişkisi, ebeveynlerinizin size davranışı ya da uzun bir süre onlardan ayrı kalmak, okulda diğer çocukların davranışı, başınıza gelen olaylar... Bütün bunlar özgüvenin oluşmasına etki sahibidir. Örneğin, çocuğunun hiç bir başarısını takdir etmeyen, eleştirel bir aileye sahip olan ya da okulda zorbalığa maruz kalmış bir çocuğun düşük özgüven sorunu yaşama ihtimali yüksektir.
+
+
 
 ![](img/self_esteem_blog_1.jpg)
 
@@ -37,17 +39,29 @@ Ne konuda iyisiniz? Neleri iyi yapıyorsunuz? Güçlü yanlarınız neler? Bunla
 
 ### 2. **Hedeflerimizin ve değerlerimizin peşinden gitmek, hedeflerimizi gerçekleştirmek**
 
-Gerçekçi hedefler koymak ve bunlar için çalışmak özgüveni artırmayı destekler. Hedef ve değerlerimize uygun davrandığımızda kendimizle bütünleşir, geliştiğimizi ve büyüdüğümüzü hissederiz. Ancak gerçekçi olmayan, ve kendi değerlerimize aykırı olan (başkalarının değerlerine uygun olan) ulaşması çok zor hedefler koymak, sürekli bir hedef için uğraşmak ama asla ulaşamamak özgüveni zedeleyebilir. 
+Hedefler hayatımıza bir yön verir ve bize motivasyon sağlar. Gerçekçi ve ulaşılabilir hedefler koymak ve bunlar için çalışmak özgüveni artırmaya yardımcı olur. Hedef ve değerlerimize uygun davrandığımızda kendimizle bütünleşir, geliştiğimizi ve büyüdüğümüzü hissederiz. Ancak gerçekçi olmayan, ve kendi değerlerimize aykırı olan (başkalarının değerlerine uygun olan) ulaşması çok zor hedefler koymak, bir hedef için sürekli uğraşmak ama asla ulaşamamak özgüveni zedeleyebilir. Aynı şekilde mükemmeliyetçilik de sizi paralize eder ve hedeflerinize ulaşmanızı engeller. Hedef belirlemede dikkat edilmesi gereken bir kaç noktadan bahsedelim:
+
+* Hedefin gerçekçi ve ulaşılabilir olduğundan emin olun.
+* Mükemmel olmayı beklemeyin ve hedeflerinize doğru attığınız her adımda kendinizle gurur duyun.
+* Hedefleriniz için tamamlamanız gereken küçük adımları belirleyin, hedefinize ulaşmak için sırayla neleri yapmanız gerekiyorsa onları tek tek yazın.
 
 ### 3. **Bizi sürekli eleştiren ve cezalandıran iç sesimizi kısmak**
 
-Her insanın içinde ara sıra -özellikle başarısız olunan anlarda - kendini gösteren yargılayıcı ve cezalandırıcı bir ses vardır. Çoğu zaman bu ses, durumu olduğundan daha kötü gösterir dolayısıyla biz de normalde hissedeceğimizden daha kötü hissederiz. Üstelik problemi çözmemize de yardımcı olmaz. Bu sese kulak verdikçe kendimizi zamanla olduğumuzdan kötü görmeye başlarız, bu inanç bizi bir çeşit kısır döngüye sokar. Ayrıca bastırmaya çalıştıkça da bu ses daha güçlü çıkmaya başlar. 
+"Boşuna uğraşma hiç bir zaman yeteri kadar iyi olamayacaksın.", "Hiç bir şeyi doğru yapamıyorsun, bunu da beceremeyeceksin.", "Seni neden ciddiye alsınlar ki?" gibi sözler tanıdık geldi mi? Her insanın içinde ara sıra kendini gösteren yargılayıcı ve eleştirici bir ses vardır. Psikologlar bu sese **olumsuz içsel konuşma** adını verirler. Aslında bu sesin amacı bizi korumaktır. Özellikle yeni bir şey denemek ya da yeni bir başlangıç yapmak istediğimizde, bizi olası tehlikelerden korumaya amacıyla konfor alanımızda tutmaya çalışır. Ama genellikle gelişmek için konfor alanımızdan çıkmamız gerekir ve bu ses önümüzde bir engel oluşturur.
+
+Çoğu zaman bu ses durumu olduğundan daha kötü gösterir dolayısıyla biz de normalde hissedeceğimizden daha kötü hissederiz. Üstelik problemi çözmemize de yardımcı olmaz. Ama en başarılı olduğu yanı, bu sese inandıkça kendimizi nasıl gördüğümüzü değiştirerek ve bizi gelişmekten alıkoyarak özgüvenimizi zedelemesidir.
+
+Bu sesin gücünü azaltmak için deneyebileceğiniz bir kaç yöntemi listeleyelim:
+
+* İçimizdeki ses dediğimiz aslında düşüncelerdir, ve düşünceler gerçek olmak zorunda değildir. Bunlar sadece zihnimizin oluşturduğu hikayelerdir. Bunun farkında olmak bu düşüncelere yani eleştirel sese kapılıp gitmenizi engeller.
+* Bu eleştirel sese bir isim verin, mümkünse komik ve saçma bir isim olsun. Ciddiye alamayacağınız bir film dizi ya da çizgi film karakterinin ismini vermek işe yarabilir. Ya da sevmediğiniz birinin ismini de verebilirsiniz. Bu sesin ortaya çıktığını fark ettiğinizde "Ah yine X geldi." "Hmm evet her neyse X." ya da "Teşekkürler X ilgilenmiyorum." şeklinde düşünebilirsiniz. Bu küçük egzersiz sizin düşüncelerinizi gerçeklikten ayırmanıza yardımcı olabilir.
+* Kendinize şefkat gösterin. İçinizdeki ses size "Yeteri kadar iyi değilsin." dediğinde "Elimden gelenin en iyisini yapıyorum. Bu şartlarda şu anda tüm yapabildiğim bu."; "Yine hata yaptın, boşuna uğraşma." dediğinde "Hata yapmak çok normal, kendimi affediyorum. Hatalarım sayesinde öğreniyorum ve gelişiyorum." deyin.
 
 ![](img/brooke-cagle-qj1j4hodnti-unsplash.jpg)
 
 ## Düşük özgüvenin çözümü
 
-Kişi ne yaparsa yapsın özgüven eksikliği yaşıyorsa, profesyonel bir destek alması gerekebilir. Terapistin, danışanın duygu ve düşüncelerini yargılamadan, anlayış ve şefkatle dinlemesi danışanın özgüven temellerini oluşturmasına yardımcı olur. Terapi seanslarında kişinin düşük özgüveninin sebepleri daha derin bir şekilde incelenir ve danışanla beraber bu sebepler üzerinde çalışılır. Terapist, danışanın olumlu ve sürekli bir benlik imgesi geliştirmesi ve kendi potansiyelini görmesi için danışana yardımcı olur.
+Kişi ne yaparsa yapsın özgüven eksikliği yaşıyorsa, profesyonel bir destek alması gerekebilir. Psikoloğun, danışanın duygu ve düşüncelerini yargılamadan, anlayış ve şefkatle dinlemesi danışanın özgüven temellerini oluşturmasına yardımcı olur. Danışmanlık seanslarında kişinin düşük özgüveninin sebepleri daha derin bir şekilde incelenir ve danışanla beraber bu sebepler üzerinde çalışılır. Psikolog, danışanın olumlu ve sürekli bir benlik imgesi geliştirmesi ve kendi potansiyelini görmesi için danışana yardımcı olur.
 
 Kaynak: [](https://www.psychologytoday.com/)<https://www.psychologytoday.com/>
 
