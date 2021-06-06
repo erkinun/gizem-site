@@ -100,7 +100,8 @@ Tamamen bizim kontrolümüzde olmayan olumsuz olayların sorumluluğunu kendi ü
 * "Sözleşmeyi takım olarak kaybettik, dolayısıyla tüm sorumluluğu üzerime alamam."
 * "Oğlum sınavdan düşük almasının birden çok sebebi olabilir, bu benim iyi bir anne olmamam anlamına gelmiyor. Belki zor zamanlardan geçiyor olabilir, en iyisi oğlumla konuşayım."
 
-  ![](img/pexels-fotografierende-1314410-1-.jpg)
+
+![](img/pexels-fotografierende-1314410-1-.jpg)
 
 Hepimiz zaman zaman bu tarz düşünce hatalarına düşeriz. "Evet, ben de bu hataları yapıyorum, peki bu düşüncelerimi nasıl değiştirebilirim?" diye soruyorsanız "Düşünce hatalarıyla baş etme yöntemleri" yazımı okuyabilirsiniz. Ancak, bu düşünce hatalarının hayatı doğru ve olduğu gibi algılamanıza engel olduğunu ve hayatınızı olumsuz etkilediğini düşünüyorsanız psikolojik destek almak iyi bir başlangıç olabilir.
 
