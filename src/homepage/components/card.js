@@ -19,7 +19,7 @@ export default (props) => (
     </Link>
     <div className='pa2 flex justify-end serif' style={{ flexShrink: 0 }}>
       <Link to={props.to} className='dark-gray tracked ttu sans-serif f5'>
-        Read More &raquo;
+        DEVAM &raquo;
       </Link>
     </div>
   </div>
