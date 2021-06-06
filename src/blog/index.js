@@ -17,7 +17,7 @@ export default class BlogIndex extends React.Component {
           description={`Index of all blog posts. Page ${this.props.pageContext.pageNumber}`}
         />
         <div className='pv5 flex items-center justify-center bg-washed-red'>
-          <h1 className='fw1 tc f2 display'>TÜM YAZILARIM</h1>
+          <h1 className='fw1 tc f2 display'>TÜM YAZILARI</h1>
         </div>
         <div className='mw9 w-90 center'>
           <Breadcrumbs lastName='Blog' lastPath='/blog' currentPage={`Page ${this.props.pageContext.pageNumber}`} />
