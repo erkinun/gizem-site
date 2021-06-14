@@ -1,7 +1,7 @@
 ---
 type: 'copy'
 name: 'homepage__bio'
-title: 'Danışmanlığını yaptığım çeşitli psikolojik rahatsızlıklar:'
+title: 'Danışmanlığını yaptığım çeşitli psikolojik sorunlar:'
 ---
 
 - Stres
@@ -9,6 +9,7 @@ title: 'Danışmanlığını yaptığım çeşitli psikolojik rahatsızlıklar:'
 - Panik atak
 - Depresyon
 - Öfke
+- Fobiler (sosyal fobi, hayvan fobisi, uçak fobisi vb.)
 - Düşük benlik saygısı ve zayıf özgüven
 - Yeme bozuklukları
 - Ölüm, kayıp ve yas
