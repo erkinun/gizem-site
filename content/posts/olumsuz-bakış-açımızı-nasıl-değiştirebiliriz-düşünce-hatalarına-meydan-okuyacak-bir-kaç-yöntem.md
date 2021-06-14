@@ -7,11 +7,10 @@ category: Self-help
 date: 2021-06-13T20:35:14.021Z
 slug: /olumsuz_bakis_acisi
 postImage: img/olumsuz-düşünceler-düşünce-hatası-ilk-foto.jpg
-metaDescription: İnsanların başlarına gelen olaylara karşı takındıkları tavır ve
-  tutumlar farklılık göstermektedir. Çok büyük sıkıntılar çektikten sonra hala
-  umudunu kaybetmeyen bir insanla, küçük bir aksiliği büyütüp tüm gününü sinirli
-  bir halde geçiren birinin arasındaki fark büyük ölçüde bu insanların bakış
-  açılarından kaynaklanmaktadır.
+metaDescription: Düşünce hataları günlük hayatımıza o kadar işlemiştir ki
+  otomatik düşünceler olarak kendilerini gösterirler. Bu yazıda düşünce
+  hatalarına karşı farkındalık oluşturmak ve onlara meydan okumak için bir kaç
+  yöntem bulabilirsiniz.
 ---
 Bazen bir işimizde hata yapar ve kendimizi günlerce hırpalarız. Yetersiz bir insan olduğumuzu düşünüp dururuz veya durumun umutsuz vaka olduğu düşüncesine saplanırız. Bir şanssızlık yaşadığımız zaman, kötü şeylerin özellikle bizim başımıza geldiğini düşünürüz, "Hep beni bulur böyle şeyler" deriz. Hemen hemen her cümleden anlayabileceğimiz gibi bunlar olumsuz düşüncelerdir ve çoğunlukla düzeltebileceğimiz basit **düşünce hatalarından** kaynaklanır. Bu yazıda sizlere bu hataları tanıtmaya ve nasıl daha doğru düşünebileceğimize örnekler vermeye çalışacağım.
 
