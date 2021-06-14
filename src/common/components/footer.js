@@ -30,7 +30,7 @@ export default () => (
               TÜM YAZILAR
             </Link>
             <Link to='/about' className='near-white sans-serif f5 tracked pv1 db'>
-              HAKKINDA
+              HAKKIMDA
             </Link>
             <div className='w-100 flex justify-around items-center pv2'>
               {data.site.siteMetadata.facebook && (

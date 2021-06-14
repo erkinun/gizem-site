@@ -12,7 +12,7 @@ export default ({ props, data }) => (
     </div>
     <div className='mw9 center pv5-l w-100'>
       <div className='mw8 center w-100 pa2'>
-        <h1 className='display fw1 db lh-copy'>HAKKINDA</h1>
+        <h1 className='display fw1 db lh-copy'>HAKKIMDA</h1>
       </div>
       <div
         className='mw8 center w-100 lh-copy serif pa2 flex flex-column justify-center f4'
