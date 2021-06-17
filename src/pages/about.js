@@ -6,7 +6,7 @@ import Seo from '../common/seo'
 
 export default ({ props, data }) => (
   <Layout>
-    <Seo title={`About ${data.site.siteMetadata.title}`} description={data.markdownRemark.frontmatter.title} />
+    <Seo title={`Hakkımda ${data.site.siteMetadata.title}`} description={data.markdownRemark.frontmatter.title} />
     <div className='relative logo-bg'>
       <Img fluid={data.banner.childImageSharp.fluid} className='w-100 mw7 h6 c-m' />
     </div>
