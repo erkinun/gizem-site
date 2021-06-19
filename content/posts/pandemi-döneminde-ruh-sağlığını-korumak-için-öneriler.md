@@ -10,13 +10,13 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
   etkilediğini gösteriyor. Bu dönemde ruh sağlığınızı korumak ve desteklemek
   için yapabileceklerinizi bu yazıda bulabilirsiniz.
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -634,9 +634,9 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,19 +659,13 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-**Pandemi döneminde ruh sağlığını korumak için öneriler**
 
- 
-
- 
 
 İngiltere'de yapılan bir araştırmaya göre (Mind, 2020) koronavirüsle mücadeledeki kapanma sürecinde yetişkinlerin yüzde 60'ı, gençlerin de yüzde 68'i ruh sağlığının kötüye gittiğini bildirmiş. Aslında 2020 yılının başından itibaren dünya çapında kolektif bir travma geçiriyoruz. Bir buçuk senedir hemen hemen herkesle benzer duygular yaşıyoruz: yas, korku, endişe, kapana kısılmışlık. Özellikle Türkiye’de kapanma sürecinde akşam ve haftasonları uygulanan evden çıkma yasaklarını da düşündüğümüzde bu dönemde endişe, bunalım, kafa karışıklığı ve öfke gibi hisler yaşamamız çok normal. Her ne kadar normalleşmeye yavaş yavaş yaklaşsak da bir süre daha koronavirüsle yaşayacağız gibi görünüyor, bu yüzden pandemi döneminde ruh sağlığımızı korumak için neler yapabiliriz ona bakalım:
-
- 
 
 ![](img/sirisvisual-lcfzmdhqp5g-unsplash.jpg)
 
@@ -691,9 +685,7 @@ Pandemiyle beraber hayatımızda kontrol edemeyeceğimiz durumların sayısı bi
 
 **3-Rutin oluşturun**
 
-Rutinler belirsizliğin yoğun olduğu dönemlerde hayatımızı ve vaktimizi düzene sokmamıza yardımcı olur. Anksiyeteyi kontrol altına almamızı destekler ve şu anki gerçekliğe adapte olmamızı kolaylaştırır.
-
-Günü hem yapmanız gereken işler ve hem de dinlendirici ve size iyi gelen şeylere zaman kalacak şekilde programlayın. Kendinize örnek bir program hazırlayın, sabah rutinleriniz belli olsun. Mesela evden çalışan biri için bu rutin şu şekilde olabilir:
+Rutinler belirsizliğin yoğun olduğu dönemlerde hayatımızı ve vaktimizi düzene sokmamıza yardımcı olur. Anksiyeteyi kontrol altına almamızı destekler ve şu anki gerçekliğe adapte olmamızı kolaylaştırır. Günü hem yapmanız gereken işler ve hem de dinlendirici ve size iyi gelen şeylere zaman kalacak şekilde programlayın. Kendinize örnek bir program hazırlayın, sabah rutinleriniz belli olsun. Mesela evden çalışan biri için bu rutin şu şekilde olabilir:
 
 Sabah 7’de kalkıp, 1 bardak su içip, yarım saatlik bir yürüyüş yapacağım. Eve gelince duş alıp, hazırlanıp, kahve yapıp, 9’da masa başında olacağım.
 
@@ -708,8 +700,6 @@ Rutinler ne kadar rahatlatıcı olsa da bazen rutinlerin dışına çıkmak gere
 **4-Rahatlama egzersizleri yapın**
 
 Şu an kendinize bir bakın. Omuzlarınız ve boynunuz gerilmiş durumda mı? Çenenizi mi sıkıyorsunuz? Nefesinizi mi tutuyorsunuz? Ya da kısa kısa nefesler alıp veriyor musunuz? Bunlar stresin vücudunuzda yarattığı etkilerdir. Hepimiz pandemi döneminde kendimizi olduğumuzdan daha gergin ve endişeli hissettik, belki de en çok ihtiyacımız olduğu zamanda rahatlamak için zaman ayırmayı ihmal ettik. Aslında nefes egzersizleri ve meditasyonlar böyle zor zamanlarda bizi en çok rahatlatan yöntemlerdendir.
-
- 
 
 ![](img/darius-bashar-xmnel_otvws-unsplash.jpg)
 
@@ -733,8 +723,6 @@ Nefes egzersizlerinin yanında Youtube’dan kendinize uygun meditasyonlara eri�
 
 Kirstin Neff'e göre öz şefkat üç kritik bileşene sahiptir; **öz sevecenlik**, **ortak paydaşım** ve **bilinçli farkındalık**. Şimdi bu üç bileşene bakarak pandemi döneminde ruh sağlığımızı korumak için nasıl öz şefkat uygulamaları yapabiliriz ona bakalım.
 
- 
-
 *1- Öz sevecenlik:*
 
 Öz sevecenlik*, kişinin hata yaptığında, başarısız olduğunda ve acı verici bir durumla karşılaştığında kendini acımasız bir şekilde yargılamadan, kendine sevecen ve anlayışlı bir şekilde yaklaşması* olarak tanımlanabilir. Öz sevecenlik aynı zamanda kişinin kendini sürekli olarak olumsuz bir biçimde değerlendirmesinden vazgeçerek hataları ve başarısızlıklarıyla kabul etmesini, zor ve acı verici zamanlarında kendisinin en yakın arkadaşı olmasını içermektedir.
@@ -747,17 +735,11 @@ Ortak paydaşım, *bireyin zorlu bir dönemden geçerken ve acı çekerken tek b
 
 Pandemi kimsenin beklediği ve istediği bir şey değildi elbet ve büyük ihtimalle herkes 2020 yılının tamamının ve 2021’in ilk yarısının daha güzel geçeceğini bekliyordu. Ama hayatın değişmez bir kuralı varsa o da gelecekten beklentilerimize karşın hayatın belirsizliklerle dolu olması. Bu dönemde tüm insanlık olarak aynı duygular içinde olduğumuzu, pandemi sürecini tüm dünya ile beraber yaşadığımızı düşünmek kendimizi yalnız hissetmemize engel olabilir.
 
- 
-
 *3- Bilinçli farkındalık:*
 
 Bilinçli farkındalık, *kişinin düşünce ve duygularının kendisini tüketmesine izin vermeden onları dengeli bir şekilde gözlemlemesi* olarak tanımlanabilir. Farkındalığı düşük kişilerin acılarıyla bütünleşmesine **acıyla özdeşme** denir, öz şefkatin bu son bileşeni bu özdeşmeyi engellemek üzerine kurulmuştur. Çünkü kişi kendisini acısına çok kaptırdığında zihnini sadece olumsuz duygu ve düşünceler oluşturmaya başlar, bu da kendisine şefkat göstermesini engeller. Bilinçli farkındalık, kişinin kendisine acı veren duyguları fark etmesi, onları kabul etmesi ancak bu duygular yüzünden kendisini hırpalamamasıdır.
 
 Bir engelle karşılaştığınızda ya da planlarınız suya düştüğünde kendinize “Şu an zor bir dönemden geçiyorum ancak bunun üstesinden gelebilirim.”, “Bu geçici bir durum.”, “Bunu da hallederim.” gibi daha anlayışlı bir dil kullanmak işe yarayabilir. Olumsuz duygu ya da acılara saplanıp kalmaktansa geçmesini izlemeyi öğrenmek gerekiyor. Bu konuda da bize farkındalık egzersizleri, nefes teknikleri ve meditasyonlar yardımcı olabilir.
-
-
-
-
 
 ![](img/raphael-renter-xlyxnfluauc-unsplash.jpg)
 
@@ -765,11 +747,7 @@ Son bir buçuk senedir tüm dünya ile birlikte zor ve sıkıntılı bir dönemd
 
 **Yazıda kullanılan kaynaklar:**
 
-
-
 Mind (2020) *The mental health emergency: how has the coronavirus pandemic impacted our mental health?* London: Mind. Available at: mind.org.uk
-
- 
 
 Neff, K. D., & Dahm, K. A. (2015). Self-compassion: What it is, what it does, and how it relates to mindfulness. In B. D. Ostafin, M. D. Robinson, & B. P. Meier (Eds.), *Handbook of mindfulness and self-regulation* (pp. 121–137). Springer Science + Business Media. [https://doi.org/10.1007/978-1-4939-2263-5_10](https://psycnet.apa.org/doi/10.1007/978-1-4939-2263-5_10)
 
