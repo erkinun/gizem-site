@@ -691,7 +691,7 @@ Sabah 7’de kalkıp, 1 bardak su içip, yarım saatlik bir yürüyüş yapacağ
 
 Akşam rutini de; akşam yemeği hazırlamak, sevilen bir dizi ya da film eşliğinde yemek yemek, diş fırçalamak, bitki çayı hazırlamak, meditasyon yapmak, kitap okumak ve 11’de uyumak olabilir.
 
-Ya da haftalık bir rutin de yapabilirsiniz. Mesela, Pazartesi, Çarşamba ve Cumartesi günleri evde egzersiz günleri olabilir. Öğrenmek istediğiniz yeni bir şey için olabilir, Salı günleri bu konuda çalışacağım diye plan yapabilirsiniz.
+Ya da haftalık bir rutin de yapabilirsiniz. Mesela, Pazartesi, Çarşamba ve Cumartesi günleri evde egzersiz günleri olabilir. Öğrenmek istediğiniz yeni bir şey olabilir, Salı günleri bu konuda çalışacağım diye plan yapabilirsiniz.
 
 Pandemi döneminde evde sürekli ne yemek yapsam diye düşünenlerdenseniz, işinizi kolaylaştırmak için haftalık yemek planı yapıp, sevdiğiniz yiyecekleri Cuma/Cumartesi akşamlarına bırakabilirsiniz. Bu sayede hem yemek düşünme stresinden kurtulur hem de haftanın belli günlerini iple çekmeye başlarsınız. Bu da pandemi sürecinde, normal zamanlarda sahip olduğumuz döngüye bir nebze ulaşmamızı sağlar. Örneğin pizza seviyorsanız, Cuma akşamları için her hafta özel bir pizza sipariş edebilirsiniz.
 
@@ -711,7 +711,7 @@ Nefes egzersizlerinin yanında Youtube’dan kendinize uygun meditasyonlara eri�
 
 **5-Öz bakımınıza önem verin**
 
-Öz bakım (self-care) kendinizi şımartmak demek değildir, fiziksel ve ruh sağlığınıza öncelik verip genel sağlığınızı ve mutluluğunu arttırmayı amaçlamaktır. Dünya Sağlık Örgütü’nün tanımladığı şekliyle öz bakım, *kişinin kendi sağlığı için yaptığı; kişisel hijyen, beslenme, egzersiz, sosyal ve kültürel aktiviteler, hobiler ve gerektiği zaman profesyonel destek almak da dahil olmak* üzere çeşitli davranışlardan oluşur. Öz bakımı *kişinin fiziksel ve ruh sağlığına iyi gelen aynı zamanda da keyif aldığı pratikler* olarak da tanımlayabiliriz.
+Öz bakım (self-care) kendinizi şımartmak demek değildir, fiziksel ve ruh sağlığınıza öncelik verip genel sağlığınızı ve mutluluğunu arttırmayı amaçlamaktır. Dünya Sağlık Örgütü’nün tanımladığı şekliyle öz bakım, *kişinin kendi sağlığı için yaptığı; kişisel hijyen, beslenme, egzersiz, sosyal ve kültürel aktiviteler, hobiler ve gerektiği zaman profesyonel destek almak da dahil olmak* üzere çeşitli davranışlardan oluşur. Öz bakımı kişinin fiziksel ve ruh sağlığına iyi gelen aynı zamanda da keyif aldığı pratikler olarak da tanımlayabiliriz.
 
 ![](img/alisa-anton-u_z0x-yrjie-unsplash.jpg)
 
