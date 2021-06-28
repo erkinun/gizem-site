@@ -10,13 +10,13 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
   etkilediğini gösteriyor. Bu dönemde ruh sağlığınızı korumak ve desteklemek
   için yapabileceklerinizi bu yazıda bulabilirsiniz.
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +55,9 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -634,9 +634,9 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -659,11 +659,9 @@ metaDescription: Yapılan araştırmalar pandeminin ruh sağlığını olumsuz
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
-
-
 
 İngiltere'de yapılan bir araştırmaya göre (Mind, 2020) koronavirüsle mücadeledeki kapanma sürecinde yetişkinlerin yüzde 60'ı, gençlerin de yüzde 68'i ruh sağlığının kötüye gittiğini bildirmiş. Aslında 2020 yılının başından itibaren dünya çapında kolektif bir travma geçiriyoruz. Bir buçuk senedir hemen hemen herkesle benzer duygular yaşıyoruz: yas, korku, endişe, kapana kısılmışlık. Özellikle Türkiye’de kapanma sürecinde akşam ve haftasonları uygulanan evden çıkma yasaklarını da düşündüğümüzde bu dönemde endişe, bunalım, kafa karışıklığı ve öfke gibi hisler yaşamamız çok normal. Her ne kadar normalleşmeye yavaş yavaş yaklaşsak da bir süre daha koronavirüsle yaşayacağız gibi görünüyor, bu yüzden pandemi döneminde ruh sağlığımızı korumak için neler yapabiliriz ona bakalım:
 
@@ -703,7 +701,7 @@ Rutinler ne kadar rahatlatıcı olsa da bazen rutinlerin dışına çıkmak gere
 
 ![](img/darius-bashar-xmnel_otvws-unsplash.jpg)
 
-Kendimizi tehlikede hissettiğimizde sempatik sinir sistemimiz tetiklenir. Bu sistem vücudu tehlikelere karşı uyaran, böbreküstü bezlerinde adrenalin ve noradrenalin salgılanmasına neden olan sistemdir. Aktive olduğunda kalp atışlarımız hızlanır, daha hızlı nefes almaya başlarız, vücudumuz etraftan gelebilecek tehlikelere karşı tetikte ve gergindir. Bu hayatta kalmak adına vücudun “savaşması’’ ya da “kaçması” için hazırlanan ilkel ve doğuştan gelen bir yanıttır. Ancak savaş ya da kaç tepkisi fiziksel bir tehdit olmadığında bile tetiklenebilir. Bitirilmeye çalışılan bir iş, zor bir sınava girmek, yöneticiyle yapılacak bir toplantı, ödenecek faturalar ya da gelecek kaygısı gibi bir çok durum bu tetiklemeyi yaratabilir. Parasempatik sinir sistemi ise vücudu sakinleştirmekten ve rahatlatmaktan sorumludur. Aktive olduğunda bunların tam tersi olur, kalp atışlarımız yavaşlar, kaslarımız rahatlar, daha yavaş nefes alırız ve zihnimiz berraklaşır.
+Kendimizi tehlikede hissettiğimizde sempatik sinir sistemimiz tetiklenir. Bu sistem vücudu tehlikelere karşı uyaran; adrenalin, noradrenalin ve kortizol salgılanmasına neden olan sistemdir. Aktive olduğunda kalp atışlarımız hızlanır, daha hızlı nefes almaya başlarız, vücudumuz etraftan gelebilecek tehlikelere karşı tetikte ve gergindir. Bu hayatta kalmak adına vücudun “savaşması’’ ya da “kaçması” için hazırlanan ilkel ve doğuştan gelen bir yanıttır. Ancak savaş ya da kaç tepkisi fiziksel bir tehdit olmadığında bile tetiklenebilir. Bitirilmeye çalışılan bir iş, zor bir sınava girmek, yöneticiyle yapılacak bir toplantı, ödenecek faturalar ya da gelecek kaygısı gibi bir çok durum bu tetiklemeyi yaratabilir. Parasempatik sinir sistemi ise vücudu sakinleştirmekten ve rahatlatmaktan sorumludur. Aktive olduğunda bunların tam tersi olur, kalp atışlarımız yavaşlar, kaslarımız rahatlar, daha yavaş nefes alırız ve zihnimiz berraklaşır.
 
 Peki, stresli bir anda kendimizi sakinleştirmek için parasempatik sistemi nasıl aktive edebiliriz? 4-6 nefes tekniği sinir sistemimizi kısa sürede rahatlatacak en kolay yöntemlerden birisi olarak bize yardımcı olabilir. Bu tekniği uygulamak için 4’e kadar sayarak burnunuzdan nefes alın ve 6’ya kadar sayarak yavaşça nefesinizi verin. Nefes aldığınızdan daha uzun süre nefes vermek parasempatik sinir sistemine vücudu rahatlatması için sinyal verir. Böylece savaş ve kaç tepkisine neden olan döngü kırılır. Bu nefes egzersizini beyninizin reset düğmesi olarak düşünebilirsiniz. Siz de bir sonraki stresli anınızda deneyip etkilerini keşfedebilirsiniz. Unutmayın, anahtar nokta aldığından daha uzun sürede nefes vermek!
 
