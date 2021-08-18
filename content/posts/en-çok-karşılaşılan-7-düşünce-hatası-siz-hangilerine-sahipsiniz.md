@@ -20,17 +20,17 @@ Gün içinde zihnimizden yaklaşık 6000 düşünce geçer. Bu düşüncelerin y
 
 Olayları orta yolu görmeden sadece iki uçtaymış gibi algılamaktır. Siyah-beyaz düşünce de denir, griler görülmez. Bir şey ya çok iyidir ya çok kötü.
 
-* "Nasılsa dün diyeti bozdum bugün de diyetime uymayacağım."
+* "Birkaç haftadır yaptığım diyeti bozdum. Demek ki ben diyet yapamıyorum, bırakacağım."
 * "Bir işi yapacaksam en mükemmel şekilde yaparım yoksa yapmasam daha iyi."
 
 <ins>Daha doğru bir düşünme şekli:</ins>
 
-* "Dün diyete uymamış olabilirim ama bugün kaldığım yerden diyete devam edeceğim."
+* "Bugün diyete uymamış olabilirim ama yarın kaldığım yerden diyete devam edeceğim. Zaman zaman bu gibi hatalar olabilir, telafi ederim."
 * "Bu işe başlıyorum ve elimden gelenin en iyisini yapmaya çalışacağım. Mükemmel olmasa da olur."
 
 2-**Felaketleştirme**:
 
-Kişinin herhangi bir sorunu çözemediği takdirde bu kendisi için dünyanın sonu olurmuş gibi düşünmesidir.
+Kişinin bir olayı olabilecek en kötü şekilde sonuçlanacağını düşünerek, olması muhtemel diğer sonuçları hesaba katmadan geleceğe dair felaket senaryoları yazmasıdır.
 
 * "Eğer bu işi zamanında yetiştiremezsem mahvolurum."
 * "Eğer bu buluşmaya geç kalırsam her şey biter."
@@ -50,11 +50,11 @@ Kişinin kendine ya da başkalarına katı, genel ve olumsuz sıfatlar atfetmesi
 <u>Daha doğru bir düşünme şekli:</u>
 
 * "Erkek arkadaşım doğum günümü unutmuş olabilir ama bunun bir çok sebebi olabilir, bu onu doğrudan kötü bir sevgili yapmaz. Ona bunun beni ne kadar kötü hissettirdiğini söyleyip, ondan kendisini açıklamasını isteyeceğim."
-* "Bu sınavdan geçememiş olabilirim ama eksikliklerimi fark ettim, daha çok çalışıp bir sonraki seferde geçeceğim."
+* "Bu sınavdan geçememiş olabilirim ama tek bir sınav benim başarısız olduğumu göstermez. Eksikliklerimi fark ettim, bir dahaki sefere daha çok çalışacağım."
 
 4-**Zihin okuma:**
 
-Başka bir kişinin kendimizle ilgili farazi ve genellikle olumsuz düşüncelerini o kişinin davranışlarından ve sözsüz iletişiminden çıkarmaktır\*\*\*.\*\*\* Başkalarının ne düşündüğünü bildiğimizi varsaymak da denebilir.
+Başka bir kişinin kendimizle ilgili farazi ve genellikle olumsuz düşüncelerini o kişinin davranışlarından ve sözsüz iletişiminden çıkarmaktır. Yeterli bir kanıt olmadan başkalarının ne düşündüğünü bildiğimizi varsaymak da denebilir.
 
 * "Yanımdan geçerken selam vermedi, beni artık umursamıyor."
 * "Takım liderim son zamanlarda bana basit işler vermeye başladı demek ki bana artık güvenmiyor."
@@ -66,15 +66,15 @@ Başka bir kişinin kendimizle ilgili farazi ve genellikle olumsuz düşünceler
 
 5-**Olumluyu göz ardı etme:**
 
-Tüm pozitif olayları önemsiz olarak kabul etmektir.
+Kişinin olumlu özelliklerini ya da olumlu şeyleri önemsiz görmesi, yok saymasıdır.
 
 * "İyi bir not aldım ama çok önemli değil, herkes yapabilirdi."
-* "Müdürüm bana öylesine övgü veriyor, iyi çalıştığım için değil. Dolayısıyla bu övgüleri ciddiye alamam."
+* "Müdürüm bana toplantıda nezaketen övgü verdi, iyi çalıştığım için değil. Dolayısıyla bu övgüyü ciddiye alamam."
 
 <ins>Daha doğru bir düşünme şekli:</ins>
 
 * "İyi bir not aldım çünkü çok bu sınava çok çalıştım ve bu notu hak ettim."
-* "Müdürüm bana çalışkan olduğum ve işimde iyi olduğum için övgü veriyor, bu övgüleri kabul edebilirim."
+* "Müdürüm bana çalışkan olduğum ve işimde iyi olduğum için övgü veriyor, bu övgüyü kabul edebilirim."
 
 6-**Aşırı genelleme:**
 
@@ -98,7 +98,20 @@ Tamamen bizim kontrolümüzde olmayan olumsuz olayların sorumluluğunu kendi ü
 <ins>Daha doğru bir düşünme şekli:</ins>
 
 * "Sözleşmeyi takım olarak kaybettik, dolayısıyla tüm sorumluluğu üzerime alamam."
-* "Oğlum sınavdan düşük almasının birden çok sebebi olabilir, bu benim iyi bir anne olmamam anlamına gelmiyor. Belki zor zamanlardan geçiyor olabilir, en iyisi oğlumla konuşayım."
+* "Oğlumun sınavdan düşük almasının birden çok sebebi olabilir, bu benim iyi bir ebeveyn olmadığım anlamına gelmiyor. Belki zor zamanlardan geçiyor olabilir, en iyisi oğlumla konuşayım."
+
+**8- -Meli -Malı İnançları:**
+
+Kişinin kendisinin ve başka insanların nasıl düşünmesi, hissetmesi ve davranması gerektiği konusunda belli kurallar koyması ve bunları değişmez ve gerçek olgular olarak algılamasıdır. Gerçekleşmediğinde hayal kırıklığı, suçluluk duygusu ve öfke yaratabilir. 
+
+* "Herkes beni sevmeli. Herkesi memnun etmeliyim."
+* "Hiç hata yapmamalıyım."
+
+<ins>Daha doğru bir düşünme şekli:</ins>
+
+* "Herkes beni sevmek zorunda değil, insanlara zorla kendimi sevdiremem, bu onların tercihidir. İnsanları memnun etmek için kendimden taviz vermek zorunda değilim. Zaten herkesi her zaman memnun etmek olanaksızdır."
+* "Herkes gibi ben de hata yapabilirim, hata yapmak insan olmanın bir parçasıdır. Hayat denemeler, yanılmalar ve hatalarla dolu. Hatalarımdan öğrenip, ders çıkarabilirim."
+
 
 
 ![](img/pexels-fotografierende-1314410-1-.jpg)
