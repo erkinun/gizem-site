@@ -9,10 +9,12 @@ module.exports = {
     heroTitle: 'Merhaba, ben Psikolog Gizem Ünlü!',
     heroDesc:
       'Londra’da bireysel psikolojik danışmanlık hizmeti sunuyorum. Kendinizi ve yaşadığınız problemleri psikoloji zemininde anlama, problemlerinizi çözüme ulaştırma ve hayatınızda olumlu değişiklikler yapma konusunda profesyonel bir destek almak isterseniz benimle iletişime geçebilirsiniz.',
-    description: "Londra'da Türkçe terapi ve danışmanlık hizmeti sunan Türk psikolog Gizem Ünlü'nün anasayfası",
+    description:
+      "Londra'da Türkçe terapi ve danışmanlık hizmeti sunan Türk psikolog Gizem Ünlü'nün anasayfası",
     siteUrl: 'https://gizemunlu.com',
     homepageHeader: "Welcome to Gizem Ünlü's blog",
-    homepageAbout: 'Gizem Ünlü is a psychologist who will explain more about the site in coming days',
+    homepageAbout:
+      'Gizem Ünlü is a psychologist who will explain more about the site in coming days',
     mailChimpUrl: 'https://mailchimp.com',
     mailChimpToken: 'MAILCHIMP TOKEN HERE',
     youtube: '', // YOUR YOUTUBE PROFILE HERE
@@ -28,6 +30,15 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          'G-PL48F66M0F', // Google Analytics / GA
+        ],
+      },
+    },
     {
       resolve: 'gatsby-plugin-feed',
       options: {
