@@ -8,7 +8,7 @@ date: 2021-12-07T11:33:48.984Z
 slug: /mevsimseldepresyon
 postImage: img/seasonal_dep_photo.jpeg
 metaDescription: Eğer sonbahar ve kış aylarında kendinizi nedensiz yere üzgün,
-  depresif ve bitkin hissediyorsanız bu yazıda nedeni ve bu durumla nasıl başa
+  depresif ve bitkin hissediyorsanız bu yazıda nedenini ve bu durumla nasıl başa
   çıkabileceğinizi bulabilirsiniz.
 ---
 Sonbahar ve kış aylarında kendinizi depresif, mutsuz ve umutsuz mu hissediyorsunuz? Sabahları yataktan kalkmakta zorlanıp, daha mı çok uyuyorsunuz? Daha fazla karbonhidrat ve şeker içeren yiyeceklere mi yöneliyorsunuz? Eğer öyleyse mevsimsel depresyon yaşıyor olabilirsiniz. Bu yazıda mevsimsel depresyonun ne olduğundan, belirtilerine; neden ortaya çıktığından kimlerin risk altında olduğuna; tedavi yöntemlerinden sizin mevsimsel depresyonla baş etmek hatta engellemek için günlük hayatınızda yapabileceğiniz değişikliklere kadar olası tüm sorularınıza cevap vermeye çalışacağım.
