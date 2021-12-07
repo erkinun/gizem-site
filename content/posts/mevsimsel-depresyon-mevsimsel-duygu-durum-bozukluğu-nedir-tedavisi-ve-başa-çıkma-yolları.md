@@ -23,6 +23,19 @@ Mevsimsel depresyon nadir olarak yazın da görülebilmektedir. Yazın görülen
 
 ![](img/seasonal_dep_photo.jpeg)
 
+# **Mevsimsel Depresyonun Belirtileri**
+
+* Günün çoğunluğunda geçmeyen depresif bir ruh hali, mutsuzluk
+* Normalden daha fazla uyuma eğilimi ve sabahları zor uyanma
+* Bitkinlik, enerji azalması
+* İştah artışı (özellikle karbonhidrata yönelme) ve kilo alımı
+* Konsantrasyon güçlüğü
+* Umutsuzluk, karamsarlık
+* Suçluluk ve değersizlik hissi
+* Sürekli sinirli ve stresli hissetme
+* Hayattan keyif alamamak, zevk alınan aktivitelere karşı ilgi kaybı
+* Sosyal hayattan uzaklaşma
+
 # **Mevsimsel Depresyonun Nedenleri**
 
 Mevsimsel depresyonun kesin nedeni tam olarak bilinmemekle beraber, sonbahar ve kış aylarında günlerin kısalıp gecelerin uzaması ve gün ışığına maruz kalınan sürenin kısalmasına bağlı olduğu düşünülmektedir.
