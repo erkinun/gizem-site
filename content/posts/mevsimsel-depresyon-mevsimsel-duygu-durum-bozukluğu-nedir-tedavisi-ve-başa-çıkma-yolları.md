@@ -46,7 +46,7 @@ Uzmanlar, güneş ışığı eksikliğinin beynin hipotalamus adı verilen böl�
 * *Serotonin üretimi* - ruh halimizi, iştahımızı ve uykumuzu etkileyen serotonin hormonu, güneş ışığı eksikliğiyle daha az üretilip depresif bir ruh haline neden olabilir.
 * *Vücudun iç saati (sirkadiyen ritim)* - vücudun ne zaman uyanacağı ve ne zaman uyuyacağına dair sinyal veren iç saate sirkadiyen ritim denir ve bu ritmi düzenleyen en önemli etken güneş ışığıdır. Kış aylarındaki daha düşük ışık seviyeleri vücut saatimizi bozabilir ve mevsimsel depresyon semptomlarına yol açabilir.
 
-# **Mevsimsel Depresyon Risk Faktörleri:**
+# **Mevsimsel Depresyon Risk Faktörleri**
 
 * Ailelerinde mevsimsel depresyon görülen kişilerin genetik olarak mevsimsel depresyona daha yatkın olması mümkündür.
 * Majör depresyon veya bipolar bozukluğa sahip kişilerde mevsimsel depresyon belirtileri daha şiddetli görülebilir.
@@ -54,7 +54,7 @@ Uzmanlar, güneş ışığı eksikliğinin beynin hipotalamus adı verilen böl�
 * Kadınlarda erkeklerden daha fazla görülmekle beraber erkeklerde semptomlarının daha ağır olduğu söylenebilir.
 * 18-30 yaş aralığındaki kişileri daha çok etkilemektedir.
 
-# **Mevsimsel Depresyonun Tedavisi:**
+# **Mevsimsel Depresyonun Tedavisi**
 
 ## **1-Yaşamsal değişiklikler**
 
