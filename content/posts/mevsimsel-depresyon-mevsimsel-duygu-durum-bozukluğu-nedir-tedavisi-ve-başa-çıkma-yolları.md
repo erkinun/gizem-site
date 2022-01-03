@@ -84,7 +84,7 @@ Depresif bir ruh halindeyken en son yapmak istediğiniz şey evden çıkmak ya d
 
 ### 5-Rahatlatıcı aktiviteler yapın
 
-Stres ve anksiyete mevsimsel depresyon semptomlarını artırabileceği için bu dönemde size iyi gelen, rahatlatan aktivitelere yönelmek faydalı olabilir. Meditasyon, nefes ve farkındalık egzersizleri, kas gevşetme egzersizleri, yoga, sıcak bir duş, kitap okumak gibi meditatif yöntemleri hayatınıza sokmak size iyi gelecektir. Mevsimsel depresyon belirtileri yaşarken sağlıklı bir uyku düzeni oluşturmak çok önemlidir. Özellikle uyku öncesi rahatlatıcı ve sakin müzik eşliğinde bir yandan rahatlatıcı bitki çayınızı içerek kitap okumak uyku kalitenizi artıracak iyi bir uyku rutini olabilir.
+Stres ve anksiyete mevsimsel depresyon semptomlarını artırabileceği için bu dönemde size iyi gelen, rahatlatan aktivitelere yönelmek faydalı olabilir. Meditasyon, nefes ve farkındalık egzersizleri, kas gevşetme egzersizleri, yoga, sıcak bir duş, kitap okumak gibi meditatif yöntemleri hayatınıza sokmak size iyi gelecektir. Mevsimsel depresyon belirtileri yaşarken sağlıklı bir uyku düzeni oluşturmak çok önemlidir. Özellikle uyku öncesi sakin bir müzik eşliğinde bir yandan rahatlatıcı bitki çayınızı içerek kitap okumak uyku kalitenizi artıracak iyi bir uyku rutini olabilir.
 
 ![](img/women-reads-book.jpeg)
 
