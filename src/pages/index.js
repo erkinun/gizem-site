@@ -14,12 +14,15 @@ export default ({ data }) => {
       <Seo title={'Ana sayfa'} description={site.description} />
       <Hero
         title={site.heroTitle}
-        image='../../content/img/white_mountain.jpg'
         to={post.frontmatter.slug}
         description={site.heroDesc}
         disabled={true}
       />
-      <div className='flex flex-wrap center mw9 w-90 pb3 bt pv5' style={{ justifyContent: 'space-evenly' }}>
+
+      <div
+        className='flex flex-wrap center mw9 w-90 pb3 bt pv5'
+        style={{ justifyContent: 'space-evenly' }}
+      >
         {data.cards.edges.map(({ node }) => (
           <Card
             title={node.frontmatter.title}
