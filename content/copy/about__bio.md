@@ -4,7 +4,7 @@ name: 'about__bio'
 title: 'Gizem Ünlü'
 ---
 
-Merhaba, ben Psikolog Gizem Ünlü. 2017 yılından beri İngiliz Psikoloji Derneği’ne (British Psychological Society) üyeyim ve bu derneğin profesyonel etik standartları çerçevesinde bireysel psikolojik danışmanlık vermekteyim.
+Merhaba, ben Psikolog Gizem Ünlü. 2017 yılından beri İngiliz Psikoloji Derneği’ne (British Psychological Society- Üyelik no: 485770) üyeyim ve bu derneğin profesyonel etik standartları çerçevesinde bireysel psikolojik danışmanlık ve psikoterapi hizmeti vermekteyim.
 
 Lisans eğitimimi Yıldız Teknik Üniversitesi'nde aldıktan sonra, 2015 yılında İngiltere’deki Middlesex University London’ın Psikoloji Dönüşüm yüksek lisansına başladım. Bu eğitim boyunca psikoloji lisans dersleri olan Bilişim Psikolojisi, Gelişim Psikolojisi, Sosyal Psikoloji ve Kişilik Kuramları, Psikolojide Ölçme ve Değerlendirme, Psikolojide İleri Araştırma Yöntemleri ve İstatistik derslerini başarıyla tamamladım. Bitirme tezimi Dr. Gemma Reynolds’ın süpervizyonu altında gelişim psikolojisi alanında “Çocukların yemek yeme davranışlarında bağlanma stillerinin ve ebeveynlerinin çocuk yetiştirme stillerinin etkisi” hakkında hazırladım. Bu programdan 2016 yılında mezun oldum.
 
@@ -14,4 +14,4 @@ Eğitimimi tamamlarken aynı zamanda mesleki deneyimimi geliştirmek için Türk
 
 Şu an Shout UK adlı yardım kuruluşunda anksiyete, depresyon, kendine zarar verme ve intihar düşünceleri ile bize ulaşan bireylere psikolojik destek vermekteyim. Shout UK’de danışman olarak çalışmaya başlamadan önce kendine zarar verme ve intihar düşüncesi olan risk grubundaki bireylere psikolojik destek, risk değerlendirmesi, problem çözme, zorluklarla başa çıkma stratejilerini içeren yaklaşık iki ay süren yoğun bir eğitimi tamamladım. Bu merkezde çalışmaya başladığımdan beri güncel süpervizyon almaktayım.
 
-Londra’da çalışmalarıma devam etmekte ve Covid-19 salgını dönemi süresince Skype ve Zoom üzerinden online psikolojik danışmanlık vermekteyim.
+Londra’da çalışmalarıma devam etmekte ve bu şehirdeki danışanlarıma yüzyüze, Londra dışındaki danışanlarıma ise Skype ve Zoom üzerinden online psikolojik danışmanlık/psikoterapi hizmeti sağlamaktayım.
