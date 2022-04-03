@@ -17,6 +17,7 @@ export default ({ data }) => (
       <div className='content'>
         <form
           className='center mx-auto'
+          action='/success'
           name='contact'
           method='POST'
           data-netlify='true'
