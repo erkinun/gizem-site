@@ -3,6 +3,7 @@ module.exports = {
     navbarLinks: [
       { to: '/about', name: 'HAKKIMDA' },
       { to: '/blog', name: 'blog' },
+      { to: '/contact', name: 'İLETİŞİM' },
     ],
     title: 'PSİKOLOG GİZEM ÜNLÜ',
     titleLowerCase: 'Psikolog Gizem Ünlü',
