@@ -21,7 +21,9 @@ export default ({ data }) => (
           name='contact'
           method='POST'
           data-netlify='true'
+          netlify-honeypot='bot-field'
         >
+          <input type='hidden' name='bot-field' />
           <p>
             <label>
               <input
