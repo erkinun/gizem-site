@@ -17,11 +17,7 @@ export default () => (
           siteMetadata {
             siteTitle: title
             mailChimpUrl
-            pinterest
-            facebook
-            twitter
-            youtube
-            github
+            address
           }
         }
       }
@@ -103,6 +99,8 @@ export default () => (
                 instagram.com/psk.gizemunlu
               </span>
             </a>
+
+            <p className='f4'>{data.site.siteMetadata.address}</p>
 
             {/*             <a href={data.site.siteMetadata.mailChimpUrl} className='near-white sans-serif f5 tracked pv1 db'>
               NEWSLETTER
