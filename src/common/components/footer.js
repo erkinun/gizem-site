@@ -100,6 +100,9 @@ export default () => (
               </span>
             </a>
 
+            <span className='near-white sans-serif f4 tracked mb1 mt4 db b'>
+              ADRES
+            </span>
             <p className='f4'>{data.site.siteMetadata.address}</p>
 
             {/*             <a href={data.site.siteMetadata.mailChimpUrl} className='near-white sans-serif f5 tracked pv1 db'>

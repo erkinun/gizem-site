@@ -22,7 +22,7 @@ module.exports = {
     pinterest: '', // YOUR PINTEREST PROFILE HERE
     facebook: '', // YOUR FACEBOOK PROFILE HERE
     twitter: '', // YOUR TWITTER PROFILE HERE
-    address: 'Adres: West Hill House 6 Swain’s Lane London N6 6QS UK',
+    address: 'West Hill House, 6 Swain’s Lane, London, N6 6QS, UK',
   },
   plugins: [
     'gatsby-plugin-sitemap',
