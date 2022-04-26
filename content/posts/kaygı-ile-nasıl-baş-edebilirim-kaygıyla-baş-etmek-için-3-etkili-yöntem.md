@@ -7,9 +7,9 @@ date: 2022-04-26T14:34:27.130Z
 slug: /kaygiilebasetme
 postImage: img/anxiety-stock-photo-canva.png
 metaDescription: "Aslında kaygı doğal ve ilkel bir korunma mekanizmasıdır ancak
-  bazen Ancak bazen kaygı, insan yaşamında problemli bir döngüye neden olup
-  kendisi başlı başına bir sorun haline gelebilir. Bu yazıda kaygıyla baş
-  etmenize yardımcı olabilecek 3 etkili yöntemden bahsettim. "
+  bazen kaygı, insan yaşamında problemli bir döngüye neden olup kendisi başlı
+  başına bir sorun haline gelebilir. Bu yazıda kaygıyla baş etmenize yardımcı
+  olabilecek 3 etkili yöntemden bahsettim. "
 ---
 Kaygı bozukluğu toplumun yaklaşık yüzde 18’ini etkileyen, yaşayan kişinin sadece akıl sağlığını değil fiziksel sağlığını da olumsuz olarak etkileyebilen, hayat kalitesini düşüren ve potansiyeline erişmesini engelleyen ciddi bir psikolojik rahatsızlıktır. Aslında kaygı doğal ve ilkel bir korunma mekanizmasıdır. Kaygılanmak, hayati durumlarla karşılaşıldığında hızlı karar verebilmek ve günlük hayatta sorunlarla baş edebilmek için gereklidir. Her insan iş, okul, ailesel ve maddi problemler, veya sağlık sorunları sebebiyle kaygı duygusunu yaşayabilir. Ancak bazen kaygı, insan yaşamında problemli bir döngüye neden olup kendisi başlı başına bir sorun haline gelebilir. Eğer kaygı hayat kalitenizi düşürüyorsa, sizi günlük işlerinizi yapmaktan alıkoyuyorsa, şiddeti ve sıklığı kontrol edilemez hale geldiyse kaygı bozukluğu yaşıyor olabilirsiniz. Bunun için profesyonel bir psikolojik destek almanızı öneririm. Ancak ben bu yazıda tedaviye ya da terapiye destek olabilecek ve gün içinde yoğun kaygı hissettiğiniz anlarda size yardımcı olacak etkili üç yöntemden bahsetmek istiyorum.
 
