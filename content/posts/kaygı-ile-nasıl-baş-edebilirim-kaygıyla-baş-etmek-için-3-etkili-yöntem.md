@@ -39,15 +39,15 @@ Varsayımsal kaygılar için çok işe yarayan bir diğer yöntem de aklınıza 
 
 ![](img/saat-16.18-paylaşımı.png)
 
-## **3-Kaygılarınızı erteleyin (Kaygı Zamanı Tekniği)**
+## **3-Kaygılarınızı erteleyin (Kaygı Erteleme Tekniği)**
 
-Hemen bir şeyler yapabileceğiniz pratik bir çözümü olmayan varsayımsal kaygıları bırakıp, başka bir şeye odaklanmak çoğu zaman zor olabilir. Eğer siz de bir kaygı üzerinde düşünmeden edemiyorsanız “kaygıyı erteleme” tekniğini kullanabilirsiniz.
+Hemen bir şeyler yapabileceğiniz pratik bir çözümü olmayan varsayımsal kaygıları bırakıp, başka bir şeye odaklanmak çoğu zaman zor olabilir. Eğer siz de bir kaygı üzerinde düşünmeden edemiyorsanız “kaygı erteleme" tekniğini kullanabilirsiniz.
 
-Kaygıyı erteleme tekniği kişinin gün içinde belli bir zamanı kaygıya ayırmasıdır. Tüm günü kaygı duyarak geçirmek yerine günün sadece sizin seçtiğiniz belli bir kısmını bu düşüncelere ayırmak kişiyi gün içinde daha kontrol sahibi olmasına, yapması gereken işlere odaklanmasına yardımcı olacaktır.
+Kaygı erteleme tekniği kişinin gün içinde belli bir zamanı kaygıya ayırmasıdır. Tüm günü kaygı duyarak geçirmek yerine günün sadece belli bir kısmını bu düşüncelere ayırmak kişinin gün içinde daha çok kontrol sahibi olmasına ve yapması gereken işlere odaklanmasına yardımcı olacaktır.
 
 Burada önemli nokta bu kaygı zamanı dışındaki zamanlarda aklınıza kaygılı düşünceler geldiğinde bunları not edip kaygı zamanınızda düşünmek üzere o sırada bırakmaktır. Kendinize “Şu an bu kaygıyla ilgilenmeyeceğim, bunu kaygı zamanında düşünebilirim.” diyebilirsiniz.
 
-Kaygı zamanı tekniği özetle,
+Kaygı erteleme tekniği özetle,
 
 * Gün içinde daha verimli çalışmanıza,
 * Yaşadığınız andan keyif almanıza,
