@@ -4,7 +4,7 @@ title: Kaygı ile nasıl baş edebilirim? Kaygıyla baş etmek için 3 etkili y�
 author: Psikolog Gizem Ünlü
 category: Self-help
 date: 2022-04-26T14:34:27.130Z
-slug: /kaygiilebasetme
+slug: /kaygiylabasetme
 postImage: img/anxiety-stock-photo-canva.png
 metaDescription: "Aslında kaygı doğal ve ilkel bir korunma mekanizmasıdır ancak
   bazen kaygı, insan yaşamında problemli bir döngüye neden olup kendisi başlı
