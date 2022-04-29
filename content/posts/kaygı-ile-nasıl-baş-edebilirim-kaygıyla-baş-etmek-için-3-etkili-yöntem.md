@@ -31,7 +31,7 @@ Kaygılarınızı not defterinize yazdınız, şimdi sıra aşırı kaygı içer
 
 **Eğer kaygınız varsayımsal bir kaygıysa;** bu aşamada kendinize şu anda zihninizin şu anda çözebileceğiniz bir probleme odaklanmadığını, bu konu üzerinde bir kontrolünüz olmadığını, sonucun sizin elinizde olmadığını, bu konuda hiçbir şey yapamayacağınızı hatırlatabilir ve bu nedenden dolayı endişelenmenizin herhangi bir yararı olmadığını söyleyebilirsiniz. Sonrasında ise kaygıyı bırakıp, elinizdeki işe odaklanmaya çalışabilirsiniz.
 
-Varsayımsal kaygılar aklınıza geldiğinde o an yaptığınız işi bırakıp, farklı bir şey yapmak da faydalı olabilir. Eğer masanızda çalışıyorsanız ayağa kalkıp biraz yürüyebilir kendinize çay ya da kahve alabilirsiniz. Başka bir yöntem de ne yapıyorsanız yapın tüm duyularınızı kullanmaya odaklanmaktır, bu sizi gelecekteki olabilecek olumsuz olaylardan uzaklaştırıp şimdiki zamana getirecektir. Örneğin, bir film izliyorsanız sesini açın ve filmdeki diyaloglara ve görüntülere odaklanmaya çalışın. Eğer oturuyorsanız ayaklarınızın yere basışını fark edin ve kısa bir süre için bu hisse odaklanın. Yürüyüş yapıyorsanız etraftaki seslere odaklanın ve her adımınızda ayaklarınızın tabanındaki basıncı hissedin. Yemek yapıyorsanız burnunuza gelen tüm kokuların keyfini çıkarın. Yemek yiyorsanız biraz yavaşlayın ve yediğiniz şeyin rengini, dokusunu, tadını, kokusunu fark ederek sadece bu deneyime odaklanın.
+Varsayımsal kaygılar aklınıza geldiğinde o an yaptığınız işi bırakıp, farklı bir şey yapmak da faydalı olabilir. Eğer masanızda çalışıyorsanız ayağa kalkıp biraz yürüyebilir kendinize çay ya da kahve alabilirsiniz. Başka bir yöntem de ne yapıyorsanız yapın tüm duyularınızı kullanmaya odaklanmaktır, bu sizi gelecekte olabilecek olumsuz olaylardan uzaklaştırıp şimdiki zamana getirecektir. Örneğin, bir film izliyorsanız sesini açın ve filmdeki diyaloglara ve görüntülere odaklanmaya çalışın. Eğer oturuyorsanız ayaklarınızın yere basışını fark edin ve kısa bir süre için bu hisse odaklanın. Yürüyüş yapıyorsanız etraftaki seslere odaklanın ve her adımınızda ayaklarınızın tabanındaki basıncı hissedin. Yemek yapıyorsanız burnunuza gelen tüm kokuların keyfini çıkarın. Yemek yiyorsanız biraz yavaşlayın ve yediğiniz şeyin rengini, dokusunu, tadını, kokusunu fark ederek sadece bu deneyime odaklanın.
 
 Varsayımsal kaygılar için çok işe yarayan bir diğer yöntem de aklınıza gelen düşünceleri birinci adımdaki gibi not defterinize yazmak ve aşağıda açıklayacağım kaygılarınızı erteleme yöntemini kullanmak.
 
@@ -45,7 +45,7 @@ Hemen bir şeyler yapabileceğiniz pratik bir çözümü olmayan varsayımsal ka
 
 Kaygı erteleme tekniği kişinin gün içinde belli bir zamanı kaygıya ayırmasıdır. Tüm günü kaygı duyarak geçirmek yerine günün sadece belli bir kısmını bu düşüncelere ayırmak kişinin gün içinde daha çok kontrol sahibi olmasına ve yapması gereken işlere odaklanmasına yardımcı olacaktır.
 
-Burada önemli nokta bu kaygı zamanı dışındaki zamanlarda aklınıza kaygılı düşünceler geldiğinde bunları not edip kaygı zamanınızda düşünmek üzere o sırada bırakmaktır. Kendinize “Şu an bu kaygıyla ilgilenmeyeceğim, bunu kaygı zamanında düşünebilirim.” diyebilirsiniz.
+Burada önemli nokta bu kaygı zamanı dışındaki zamanlarda aklınıza kaygılı düşünceler geldiğinde bunları not edip kaygı zamanınızda düşünmek üzere o sırada bırakmaktır. Kendinize “Şu an bu düşünceyle ilgilenmeyeceğim, bunu kaygı zamanında düşünebilirim.” diyebilirsiniz.
 
 Kaygı erteleme tekniği özetle,
 
